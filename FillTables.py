@@ -3,9 +3,8 @@ from Bio import SeqIO
 import sys
 import re
 import glob
-import pymysql
-import getpass
 import os
+import getpass
 
 cntGenome = 0 #global counters
 cntReplicons = 0
@@ -115,7 +114,7 @@ for a in range(1, len(sys.argv)): # args are the assembly names
                     else:
                         thisGene[4] = locus_tag
 
-                    if 'gene_synonym' in feature.qualifiers or 'old_locus_tag' in feature.qualifiers:
+                    if 'gene_synonym' in feature.qualifiers or 'old_locus_tag' in feature.qualifiers:  
                         gene_synonyms[cntCDS] = []
 
                     if 'gene_synonym' in feature.qualifiers:
@@ -124,7 +123,8 @@ for a in range(1, len(sys.argv)): # args are the assembly names
                             gene_synonyms[cntCDS].append(synonym)
 
                     if 'old_locus_tag' in feature.qualifiers:
-                        gene_synonyms[cntCDS].append([feature.qualifiers['old_locus_tag'][0]])
+                        print str(cntCDS) + "locus"
+                        gene_synonyms[cntCDS].append(feature.qualifiers['old_locus_tag'][0])
 
                     if 'protein_id' in feature.qualifiers:
                         protein_id = feature.qualifiers['protein_id'][0]
@@ -158,13 +158,13 @@ for a in range(1, len(sys.argv)): # args are the assembly names
 
     genomic.close()
 
-genomes_table = open('genomes_table.txt', 'w')
-replicons_table = open('replicons_table.txt', 'w')
-genes_table = open('genes_table.txt', 'w')
-exons_table = open('exons_table.txt', 'w')
-gene_synonyms_table = open('gene_synonyms_table.txt', 'w')
-gene_xrefs_table = open('gene_xrefs_table.txt', 'w')
-functions_table = open('functions_table.txt', 'w')
+genomes_table = open('genomes.txt', 'w')
+replicons_table = open('replicons.txt', 'w')
+genes_table = open('genes.txt', 'w')
+exons_table = open('exons.txt', 'w')
+gene_synonyms_table = open('gene_synonyms.txt', 'w')
+gene_xrefs_table = open('gene_xrefs.txt', 'w')
+functions_table = open('functions.txt', 'w')
 
 # There are 3 kinds of outputs from the types of dictionaries I made
 def WriteDicToFile(dic, out):
@@ -198,9 +198,12 @@ WriteListToFile(gene_synonyms, gene_synonyms_table)
 WriteDicListToFile(exons, exons_table)
 WriteDicListToFile(gene_xrefs, gene_xrefs_table)
 
-password = getpass.getpass() 
-os.system('mysql -h bm185s.ucsd.edu -u mcaplin -p %s mcaplin_db
+password = getpass.getpass()
 
-"""password = getpass.getpass()
-db = pymysql.connect('bm185s-mysql.ucsd.edu', 'mcaplin', password, 'mcaplin_db')
-cursor = db.cursor()"""
+os.system('mysqlimport --host=bm185s-mysql.ucsd.edu --user=mcaplin --password=%s --columns=genome_id,name,tax_id,domain,num_replicons,num_genes,size_bp,assembly --local mcaplin_db genomes.txt' % password)
+os.system('mysqlimport --host=bm185s-mysql.ucsd.edu --user=mcaplin --password=%s --columns=replicon_id,genome_id,name,type,shape,num_genes,size_bp,accession,release_date --local mcaplin_db replicons.txt' % password)
+os.system('mysqlimport --host=bm185s-mysql.ucsd.edu --user=mcaplin --password=%s --columns=gene_id,genome_id,replicon_id,locus_tag,protein_id,name,strand,num_exons,length,product --local mcaplin_db genes.txt' % password)
+os.system('mysqlimport --host=bm185s-mysql.ucsd.edu --user=mcaplin --password=%s --columns=gene_id,xdb,xid --local mcaplin_db gene_xrefs.txt' % password)
+os.system('mysqlimport --host=bm185s-mysql.ucsd.edu --user=mcaplin --password=%s --columns=gene_id,function --local mcaplin_db functions.txt' % password)
+os.system('mysqlimport --host=bm185s-mysql.ucsd.edu --user=mcaplin --password=%s --columns=gene_id,synonym --local mcaplin_db gene_synonyms.txt' % password)
+os.system('mysqlimport --host=bm185s-mysql.ucsd.edu --user=mcaplin --password=%s --columns=gene_id,exon,left_pos,right_pos,length --local mcaplin_db exons.txt' % password)
