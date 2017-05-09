@@ -1,0 +1,6093 @@
+1	leader
+1	Amino acid biosynthesis: Threonine
+2	enzyme
+2	Amino acid biosynthesis: Threonine
+3	enzyme
+3	Amino acid biosynthesis: Threonine
+4	enzyme
+4	Amino acid biosynthesis: Threonine
+7	putative transport
+7	Transport of small molecules: Amino acids, amines
+8	enzyme
+8	Central intermediary metabolism: Non-oxidative branch, pentose pathway
+9	transport
+9	Biosynthesis of cofactors, carriers: Molybdopterin
+11	putative enzyme
+11	Not classified
+13	factor
+13	Chaperones
+14	factor
+14	Chaperones
+15	IS, phage, Tn
+15	Transposon-related functions
+15	extrachromosomal
+15	transposon related
+18	transport
+18	Transport of small molecules: Cations
+19	regulator
+19	Transport of small molecules: Cations
+20	IS, phage, Tn
+20	Transposon-related functions
+20	extrachromosomal
+20	transposon related
+21	IS, phage, Tn
+21	Transposon-related functions
+21	extrachromosomal
+21	transposon related
+22	structural component
+22	Ribosomal proteins - synthesis, modification
+24	putative regulator
+24	Not classified
+25	enzyme
+25	Aminoacyl tRNA synthetases, tRNA modification
+26	enzyme
+26	Protein, peptide secretion
+27	putative enzyme
+27	Proteins - translation and modification
+30	enzyme
+30	Amino acid biosynthesis: Lysine
+31	enzyme
+31	Pyrimidine ribonucleotide biosynthesis
+32	enzyme
+32	Pyrimidine ribonucleotide biosynthesis
+33	regulator
+33	Central intermediary metabolism: Pool, multipurpose conversions
+34	putative enzyme
+34	Central intermediary metabolism: Pool, multipurpose conversions
+35	enzyme
+35	Degradation of small molecules: Amines
+36	putative enzyme
+36	Central intermediary metabolism: Pool, multipurpose conversions
+37	enzyme
+37	Central intermediary metabolism: Pool, multipurpose conversions
+38	putative regulator
+38	Central intermediary metabolism: Pool, multipurpose conversions
+39	putative transport
+39	Central intermediary metabolism: Pool, multipurpose conversions
+40	putative enzyme
+40	Energy metabolism, carbon: Electron transport
+41	putative enzyme
+41	Energy metabolism, carbon: Electron transport
+42	putative carrier
+42	Energy metabolism, carbon: Electron transport
+43	putative carrier
+43	Not classified
+44	putative transport
+44	Not classified
+45	putative enzyme
+45	Not classified
+46	transport
+46	Transport of small molecules: Cations
+47	enzyme
+47	Biosynthesis of cofactors, carriers: Folic acid
+48	enzyme
+48	Salvage of nucleosides and nucleotides
+50	enzyme
+50	rRNA modification
+50	drug/analog sensitivity
+51	enzyme
+51	Biosynthesis of cofactors, carriers: Pyridoxine
+52	phenotype
+52	Not classified
+53	phenotype
+53	Adaptations, atypical conditions
+54	factor
+54	Chaperones
+56	enzyme
+56	rRNA modification
+56	tRNA modification
+57	putative enzyme
+57	RNA synthesis, modification, DNA transcription
+58	enzyme
+58	DNA - replication, repair, restriction/modification
+59	enzyme
+59	Degradation of small molecules: Carbon compounds
+60	enzyme
+60	Degradation of small molecules: Carbon compounds
+61	enzyme
+61	Degradation of small molecules: Carbon compounds
+62	regulator
+62	Degradation of small molecules: Carbon compounds
+64	transport
+64	Transport of small molecules: Other
+66	transport
+66	Transport of small molecules: Other
+67	transport
+67	Not classified
+69	putative transport
+69	Not classified
+70	enzyme
+70	Amino acid biosynthesis: Leucine
+71	enzyme
+71	Amino acid biosynthesis: Leucine
+72	enzyme
+72	Amino acid biosynthesis: Leucine
+73	enzyme
+73	Amino acid biosynthesis: Leucine
+74	leader
+74	Amino acid biosynthesis: Leucine
+75	putative regulator
+75	Amino acid biosynthesis: Leucine
+76	enzyme
+76	Amino acid biosynthesis: Isoleucine, Valine
+77	enzyme
+77	Amino acid biosynthesis: Isoleucine, Valine
+78	regulator
+78	Energy metabolism, carbon: Glycolysis
+80	enzyme
+80	rRNA modification
+81	phenotype
+81	Cell division
+82	enzyme
+82	Cell division
+83	enzyme
+83	Murein sacculus, peptidoglycan
+84	enzyme
+84	Murein sacculus, peptidoglycan
+85	enzyme
+85	Murein sacculus, peptidoglycan
+86	enzyme
+86	Murein sacculus, peptidoglycan
+87	membrane
+87	Cell division
+88	enzyme
+88	Murein sacculus, peptidoglycan
+89	enzyme
+89	Murein sacculus, peptidoglycan
+90	enzyme
+90	Murein sacculus, peptidoglycan
+91	phenotype
+91	Cell division
+92	phenotype
+92	Cell division
+93	enzyme
+93	Cell division
+94	enzyme
+94	Surface polysaccharides & antigens
+96	transport
+96	Protein, peptide secretion
+97	enzyme
+97	2'-Deoxyribonucleotide metabolism
+100	orf
+100	Not classified
+101	enzyme
+101	Purine ribonucleotide biosynthesis
+102	putative transport
+102	Not classified
+103	putative transport
+103	Not classified
+104	putative structural component
+104	Surface structures
+105	enzyme
+105	Biosynthesis of cofactors, carriers: Pyridine nucleotide
+106	regulator
+106	Not classified
+107	regulator
+107	Drug/analog sensitivity
+108	transport
+108	Transport of small molecules: Amino acids, amines
+109	regulator
+109	Energy metabolism, carbon: Pyruvate dehydrogenase
+110	enzyme
+110	Energy metabolism, carbon: Pyruvate dehydrogenase
+111	enzyme
+111	Energy metabolism, carbon: Pyruvate dehydrogenase
+112	enzyme
+112	Energy metabolism, carbon: Pyruvate dehydrogenase
+113	putative membrane
+113	Not classified
+114	enzyme
+114	Energy metabolism, carbon: TCA cycle
+116	enzyme
+116	Central intermediary metabolism: Polyamine biosynthesis
+117	enzyme
+117	Central intermediary metabolism: Polyamine biosynthesis
+120	enzyme
+120	Degradation of small molecules: Carbon compounds
+121	enzyme
+121	Salvage of nucleosides and nucleotides
+122	enzyme
+122	Central intermediary metabolism: Pool, multipurpose conversions
+123	putative transport
+123	Not classified
+125	putative transport
+125	Not classified
+127	enzyme
+127	Biosynthesis of cofactors, carriers: Pantothenate
+129	enzyme
+129	Biosynthesis of cofactors, carriers: Pantothenate
+130	enzyme
+130	Biosynthesis of cofactors, carriers: Pantothenate
+131	putative structural component
+131	Surface structures
+132	putative structural component
+132	Surface structures
+133	putative structural component
+133	Surface structures
+134	putative structural component
+134	Surface structures
+135	putative membrane
+135	Surface structures
+136	putative factor
+136	Surface structures
+137	putative structural component
+137	Surface structures
+138	enzyme
+138	Biosynthesis of cofactors, carriers: Folic acid
+139	enzyme
+139	RNA synthesis, modification, DNA transcription
+140	putative enzyme
+140	Aminoacyl tRNA synthetases, tRNA modification
+141	phenotype
+141	DNA - replication, repair, restriction/modification
+142	putative regulator
+142	Degradation of small molecules: Carbon compounds
+143	enzyme
+143	tRNA modification
+144	enzyme
+144	DNA - replication, repair, restriction/modification
+145	enzyme
+145	Murein sacculus, peptidoglycan
+146	membrane
+146	Outer membrane constituents
+147	transport
+147	Transport of small molecules: Cations
+148	transport
+148	Transport of small molecules: Cations
+149	transport
+149	Transport of small molecules: Cations
+150	enzyme
+150	Biosynthesis of cofactors, carriers: Heme, porphyrin
+151	transport
+151	Not classified
+156	enzyme
+156	Central intermediary metabolism: Nucleotide hydrolysis
+157	enzyme
+157	Degradation of proteins, peptides, glycopeptides
+158	regulator
+158	Not classified
+159	putative structure
+159	Not classified
+161	enzyme
+161	Amino acid biosynthesis: Lysine
+162	enzyme
+162	Amino acid biosynthesis: Glutamine
+163	enzyme
+163	Proteins - translation and modification
+164	structural component
+164	Ribosomal proteins - synthesis, modification
+165	factor
+165	Proteins - translation and modification
+166	enzyme
+166	Central intermediary metabolism: Nucleotide interconversions
+167	factor
+167	Proteins - translation and modification
+168	putative transport
+168	Not classified
+170	enzyme
+170	Fatty acid and phosphatidic acid biosynthesis
+173	factor
+173	Basic proteins - synthesis, modification
+174	enzyme
+174	Surface polysaccharides & antigens
+175	enzyme
+175	Fatty acid and phosphatidic acid biosynthesis
+176	enzyme
+176	Surface polysaccharides & antigens
+177	enzyme
+177	Macromolecule metabolism: Lipopolysaccharide
+178	enzyme
+178	Degradation of RNA
+179	enzyme
+179	DNA - replication, repair, restriction/modification
+180	enzyme
+180	Fatty acid and phosphatidic acid biosynthesis
+181	enzyme
+181	Energy metabolism, carbon: Pyruvate dehydrogenase
+183	enzyme
+183	tRNA modification
+186	putative enzyme
+186	Not classified
+188	putative transport
+188	Detoxification
+190	enzyme
+190	Aminoacyl tRNA synthetases, tRNA modification
+191	enzyme
+191	tRNA modification
+192	regulator
+192	Surface polysaccharides & antigens
+193	transport
+193	Transport of small molecules: Amino acids, amines
+194	transport
+194	Transport of small molecules: Amino acids, amines
+195	transport
+195	Transport of small molecules: Amino acids, amines
+196	enzyme
+196	Surface polysaccharides and antigens
+197	putative enzyme
+197	Not classified
+198	putative transport
+198	Not classified
+200	putative enzyme
+200	Not classified
+201	regulator
+201	Energy metabolism, carbon: Anaerobic respiration
+202	putative enzyme
+202	Central intermediary metabolism: Pool, multipurpose conversions
+204	enzyme
+204	Degradation of RNA
+205	enzyme
+205	DNA - replication, repair, restriction/modification
+206	putative enzyme
+206	Not classified
+210	putative enzyme
+210	Not classified
+212	putative enzyme
+212	Not classified
+213	enzyme
+213	Surface polysaccharides & antigens
+214	putative enzyme
+214	Not classified
+217	phenotype
+217	Not classified
+218	putative membrane
+218	Not classified
+228	enzyme
+228	Degradation of proteins, peptides, glyco
+229	enzyme
+229	Salvage of nucleosides and nucleotides
+232	membrane
+232	Outer membrane constituents
+233	enzyme
+233	Amino acid biosynthesis: Proline
+234	enzyme
+234	Amino acid biosynthesis: Proline
+236	Phage or Prophage Related
+237	Phage or Prophage Related
+239	Phage or Prophage Related
+240	Phage or Prophage Related
+241	Phage or Prophage Related
+242	Phage or Prophage Related
+243	Phage or Prophage Related
+246	Phage or Prophage Related
+247	Phage or Prophage Related
+248	Phage or Prophage Related
+250	IS, phage, Tn
+250	Transposon-related functions
+250	extrachromosomal
+250	transposon related
+252	IS, phage, Tn
+252	Transposon-related functions
+252	extrachromosomal
+252	transposon related
+253	Phage or Prophage Related
+254	Phage or Prophage Related
+255	putative transport
+255	Not classified
+255	Phage or Prophage Related
+257	IS, phage, Tn
+257	Transposon-related functions
+257	extrachromosomal
+257	transposon related
+258	IS, phage, Tn
+258	Transposon-related functions
+258	extrachromosomal
+258	transposon related
+262	Phage or Prophage Related
+263	Phage or Prophage Related
+264	Phage or Prophage Related
+265	Phage or Prophage Related
+266	Phage or Prophage Related
+267	Phage or Prophage Related
+268	enzyme
+268	Amino acid biosynthesis: Arginine
+268	Phage or Prophage Related
+270	IS, phage, Tn
+270	Transposon-related functions
+270	extrachromosomal
+270	transposon related
+271	IS, phage, Tn
+271	Transposon-related functions
+271	extrachromosomal
+271	transposon related
+273	Phage or Prophage Related
+274	Phage or Prophage Related
+275	Phage or Prophage Related
+276	Phage or Prophage Related
+277	Phage or Prophage Related
+281	enzyme
+281	Not classified
+282	enzyme
+282	Not classified
+283	enzyme
+283	Not classified
+285	putative carrier
+285	Not classified
+286	factor
+286	Surface structures
+287	structural component
+287	Surface structures
+288	membrane
+288	Outer membrane constituents
+289	factor
+289	Surface structures
+290	structural component
+290	Surface structures
+291	putative regulator
+291	Not classified
+298	IS, phage, Tn
+298	Transposon-related functions
+298	extrachromosomal
+298	transposon related
+299	IS, phage, Tn
+299	Transposon-related functions
+299	extrachromosomal
+299	transposon related
+304	putative enzyme
+304	Not classified
+305	regulator
+305	Not classified
+306	putative carrier
+306	Energy metabolism, carbon: Electron transport
+307	putative carrier
+307	Energy metabolism, carbon: Electron transport
+308	putative carrier
+308	Energy metabolism, carbon: Electron transport
+310	enzyme
+310	Osmotic adaptation
+311	enzyme
+311	Osmotic adaptation
+312	putative regulator
+312	Osmotic adaptation
+313	transport
+313	Transport of small molecules: Other
+315	putative regulator
+315	Not classified
+317	putative regulator
+317	Not classified
+319	putative enzyme
+319	Not classified
+321	putative enzyme
+321	Not classified
+322	putative enzyme
+322	Not classified
+323	enzyme
+323	Degradation of small molecules: Carbon compounds
+326	transport
+326	Not classified
+328	regulator
+328	Not classified
+329	putative enzyme
+329	Not classified
+330	putative enzyme
+330	Not classified
+332	putative enzyme
+332	Not classified
+333	transport
+333	Transport of small molecules: Nucleosides, purines, pyrimidines
+334	enzyme
+334	Salvage of nucleosides and nucleotides
+335	regulator
+335	Central intermediary metabolism: Pool, multipurpose conversions
+336	enzyme
+336	Central intermediary metabolism: Pool, multipurpose conversions
+337	enzyme
+337	Central intermediary metabolism: Pool, multipurpose conversions
+338	transport
+338	Transport of small molecules: Anions
+339	enzyme
+339	Degradation of small molecules: Carbon compounds
+340	transport
+340	Transport of small molecules: Carbohydrates, organic acids, alcohols
+341	enzyme
+341	Degradation of small molecules: Carbon compounds
+342	regulator
+342	Degradation of small molecules: Carbon compounds
+343	regulator
+343	Not classified
+344	enzyme
+344	Degradation of small molecules: Carbon compounds
+345	enzyme
+345	Degradation of small molecules: Carbon compounds
+346	enzyme
+346	Degradation of small molecules: Carbon compounds
+347	enzyme
+347	Degradation of small molecules: Carbon compounds
+348	enzyme
+348	Degradation of small molecules: Carbon compounds
+349	enzyme
+349	Degradation of small molecules: Carbon compounds
+350	putative transport
+350	Not classified
+351	putative enzyme
+351	Not classified
+352	enzyme
+352	Formaldehyde degradation
+353	enzyme
+353	Energy metabolism, carbon: Fermentation
+357	IS, phage, Tn
+357	Transposon-related functions
+357	extrachromosomal
+357	transposon related
+358	IS, phage, Tn
+358	Transposon-related functions
+358	extrachromosomal
+358	transposon related
+359	putative enzyme
+359	Not classified
+360	putative enzyme
+360	Not classified
+361	transport
+361	Transport of small molecules: Amino acids, amines
+362	transport
+362	Transport of small molecules: Amino acids, amines
+363	transport
+363	Transport of small molecules: Amino acids, amines
+364	putative enzyme
+364	Not classified
+365	enzyme
+365	Biosynthesis of cofactors, carriers: Heme, porphyrin
+367	IS, phage, Tn
+367	Transposon-related functions
+367	extrachromosomal
+367	transposon related
+368	IS, phage, Tn
+368	Transposon-related functions
+368	extrachromosomal
+368	transposon related
+370	enzyme
+370	Murein recycling
+371	putative membrane
+371	Drug/analog sensitivity
+375	enzyme
+375	Murein sacculus, peptidoglycan
+377	enzyme
+377	Central intermediary metabolism: Phosphorus compounds
+378	phenotype
+378	Central intermediary metabolism: Phosphorus compounds
+380	enzyme
+380	Amino acid biosynthesis: Proline
+382	enzyme
+382	Amino acid biosynthesis: Chorismate
+388	putative regulator
+388	Not classified
+389	transport
+389	Degradation of small molecules: Carbon compounds
+390	enzyme
+390	Degradation of DNA
+391	enzyme
+391	Degradation of DNA
+392	regulator
+392	Global regulatory functions
+393	enzyme
+393	Global regulatory functions
+394	transport
+394	Transport of small molecules: Amino acids, amines
+395	transport
+395	Transport of small molecules: Amino acids, amines
+396	enzyme
+396	Degradation of small molecules: Carbon compounds
+397	enzyme
+397	Not classified
+398	enzyme
+398	Queuosine biosynthesis
+399	enzyme
+399	tRNA modification
+401	transport
+401	Protein, peptide secretion
+402	transport
+402	Protein, peptide secretion
+404	transport
+404	Transport of small molecules: Nucleosides, purines, pyrimidines
+407	enzyme
+407	Biosynthesis of cofactors, carriers: Riboflavin
+408	enzyme
+408	Biosynthesis of cofactors, carriers: Riboflavin
+409	factor
+409	RNA synthesis, modification, DNA transcription
+410	enzyme
+410	Biosynthesis of cofactors, carriers: Thiamine
+411	enzyme
+411	Macromolecule synthesis, modification: Phospholipids
+413	enzyme
+413	Central intermediary metabolism: Pool, multipurpose conversions
+414	enzyme
+414	Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+415	enzyme
+415	Degradation of DNA
+416	enzyme
+416	tRNA modification
+418	phenotype
+418	Not classified
+420	putative transport
+420	Not classified
+421	enzyme
+421	Energy metabolism, carbon: Aerobic respiration
+422	enzyme
+422	Energy metabolism, carbon: Aerobic respiration
+423	enzyme
+423	Energy metabolism, carbon: Aerobic respiration
+424	enzyme
+424	Energy metabolism, carbon: Aerobic respiration
+425	enzyme
+425	Energy metabolism, carbon: Aerobic respiration
+426	regulator
+426	Drug/analog sensitivity
+427	putative enzyme
+427	Not classified
+428	putative regulator
+428	Murein sacculus, peptidoglycan
+429	factor
+429	Cell division
+430	enzyme
+430	Degradation of proteins, peptides, glyco
+431	enzyme
+431	Degradation of proteins, peptides, glyco
+432	enzyme
+432	Global regulatory functions
+433	factor
+433	Basic proteins - synthesis, modification
+434	putative factor
+434	Not classified
+436	enzyme
+436	fatty acid degradation
+437	enzyme
+437	Queuosine biosynthesis
+440	putative regulator
+440	Not classified
+443	regulator
+443	Central intermediary metabolism: Pool, multipurpose conversions
+444	putative transport
+444	Central intermediary metabolism: Pool, multipurpose conversions
+445	enzyme
+445	Fatty acid and phosphatidic acid biosynthesis
+446	phenotype
+446	Not classified
+451	putative enzyme
+451	Not classified
+452	regulator
+452	Proteins - translation and modification
+454	transport
+454	Drug/analog sensitivity
+455	transport
+455	Drug/analog sensitivity
+456	regulator
+456	Drug/analog sensitivity
+459	factor
+459	DNA - replication, repair, restriction/modification
+460	orf
+460	Not classified
+461	enzyme
+461	Salvage of nucleosides and nucleotides
+462	enzyme
+462	DNA - replication, repair, restriction/modification
+463	factor
+463	DNA - replication, repair, restriction/modification
+464	putative enzyme
+464	DNA - replication, repair, restriction/modification
+465	factor
+465	Chaperones
+466	enzyme
+466	Purine ribonucleotide biosynthesis
+467	enzyme
+467	Biosynthesis of cofactors, carriers: Heme, porphyrin
+468	orf
+468	Not classified
+469	enzyme
+469	Salvage of nucleosides and nucleotides
+470	putative transport
+470	Not classified
+471	putative transport
+471	Not classified
+472	enzyme
+472	Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+476	putative enzyme
+476	Not classified
+477	enzyme
+477	l-glutamine catabolism
+478	putative transport
+478	Not classified
+479	putative transport
+479	Not classified
+481	putative enzyme
+481	Not classified
+482	transport
+482	Transport of small molecules: Cations
+483	transport
+483	Transport of small molecules: Cations
+484	putative enzyme
+484	Not classified
+485	putative enzyme
+485	Not classified
+486	enzyme
+486	Fatty acid and phosphatidic acid biosynthesis
+487	putative transport
+487	Not classified
+488	putative enzyme
+488	Not classified
+495	enzyme
+495	tRNA modification
+496	regulator
+496	Purine nitrogen catabolism
+497	enzyme
+497	Purine nitrogen catabolism
+498	regulator
+498	Purine nitrogen catabolism
+499	enzyme
+499	Central intermediary metabolism: Pool, multipurpose conversions
+500	phenotype
+500	Not classified
+501	putative enzyme
+501	Not classified
+502	putative transport
+502	Transport of small molecules: Carbohydrates, organic acids, alcohols
+503	enzyme
+503	Purine nitrogen catabolism
+504	putative transport
+504	Not classified
+506	enzyme
+506	Purine nitrogen catabolism
+507	enzyme
+507	Purine nitrogen catabolism
+508	enzyme
+508	Purine nitrogen catabolism
+509	transport
+509	Protein, peptide secretion
+511	putative enzyme
+511	Purine nitrogen catabolism
+512	putative enzyme
+512	Purine nitrogen catabolism
+513	enzyme
+513	Purine ribonucleotide biosynthesis
+514	enzyme
+514	Purine ribonucleotide biosynthesis
+516	enzyme
+516	Proteins - translation and modification
+517	enzyme
+517	Aminoacyl tRNA synthetases, tRNA modification
+520	enzyme
+520	Biosynthesis of cofactors, carriers: Folic acid
+521	putative structural component
+521	Surface structures
+522	putative factor
+522	Surface structures
+523	membrane
+523	Outer membrane constituents
+524	putative structural component
+524	Surface structures
+525	putative structural component
+525	Surface structures
+526	putative regulator
+526	Surface structures
+527	IS, phage, Tn
+527	Phage or Prophage Related
+532	IS, phage, Tn
+532	Transposon-related functions
+532	extrachromosomal
+532	transposon related
+533	IS, phage, Tn
+533	Transposon-related functions
+533	extrachromosomal
+533	transposon related
+534	transport
+534	Drug/analog sensitivity
+534	Phage or Prophage Related
+535	Phage or Prophage Related
+536	Phage or Prophage Related
+537	Phage or Prophage Related
+538	Phage or Prophage Related
+539	Phage or Prophage Related
+540	Phage or Prophage Related
+541	Phage or Prophage Related
+542	enzyme
+542	Degradation of DNA
+542	Phage or Prophage Related
+543	Phage or Prophage Related
+544	Phage or Prophage Related
+546	IS, phage, Tn
+546	Transposon-related functions
+546	extrachromosomal
+546	transposon related
+547	Phage or Prophage Related
+548	Phage or Prophage Related
+549	Phage or Prophage Related
+550	Phage or Prophage Related
+551	Phage or Prophage Related
+552	Phage or Prophage Related
+553	Phage or Prophage Related
+554	Phage or Prophage Related
+555	Phage or Prophage Related
+560	regulator
+560	Central intermediary metabolism: Pool, multipurpose conversions
+560	Phage or Prophage Related
+561	enzyme
+561	Outer membrane constituents
+561	Phage or Prophage Related
+562	structural component
+562	Outer membrane constituents
+564	membrane
+564	Phage-related functions and prophages
+565	membrane
+565	Phage-related functions and prophages
+566	putative regulator
+566	Not classified
+567	putative regulator
+567	Not classified
+568	putative transport
+568	Drug/analog sensitivity
+570	putative transport
+570	Drug/analog sensitivity
+571	putative transport
+571	Not classified
+572	transport
+572	Transport of small molecules: Amino acids, amines
+573	transport
+573	Transport of small molecules: Other
+574	enzyme
+574	Drug/analog sensitivity
+578	component of addiction module (incomplete)
+579	IS, phage, Tn
+579	Transposon-related functions
+579	extrachromosomal
+579	transposon related
+580	enzyme
+580	Biosynthesis of cofactors, carriers: Enterochelin
+581	membrane
+581	Transport of small molecules: Cations
+582	enzyme
+582	Transport of small molecules: Cations
+583	Enzyme
+583	Biosynthesis of cofactors, carriers: Enterochelin
+584	enzyme
+584	Biosynthesis of cofactors, carriers: Enterochelin
+585	transport
+585	Transport of small molecules: Cations
+586	transport
+586	Transport of small molecules: Cations
+587	transport
+587	Transport of small molecules: Cations
+588	transport
+588	Transport of small molecules: Cations
+589	putative transport
+589	Not classified
+590	transport
+590	Transport of small molecules: Cations
+591	enzyme
+591	Biosynthesis of cofactors, carriers: Enterochelin
+592	enzyme
+592	Biosynthesis of cofactors, carriers: Enterochelin
+593	enzyme
+593	Biosynthesis of cofactors, carriers: Enterochelin
+594	enzyme
+594	Biosynthesis of cofactors, carriers: Enterochelin
+596	putative transport
+596	Not classified
+598	putative enzyme
+598	Not classified
+599	putative enzyme
+599	Not classified
+602	putative regulator
+602	Not classified
+603	enzyme
+603	Central intermediary metabolism: Pool, multipurpose conversions
+604	enzyme
+604	Detoxification
+605	enzyme
+605	Detoxification
+607	putative enzyme
+607	Not classified
+608	regulator
+608	Central intermediary metabolism: Nucleotide interconversions
+609	enzyme
+609	Degradation of RNA
+610	putative membrane
+610	Not classified
+613	enzyme
+613	Central intermediary metabolism: Pool, multipurpose conversions
+614	enzyme
+614	Central intermediary metabolism: Pool, multipurpose conversions
+615	enzyme
+615	Central intermediary metabolism: Pool, multipurpose conversions
+616	enzyme
+616	Central intermediary metabolism: Pool, multipurpose conversions
+617	regulator
+617	Degradation of small molecules: Carbon compounds
+618	regulator
+618	Degradation of small molecules: Carbon compounds
+619	transport
+619	Transport of small molecules: Carbohydrates, organic acids, alcohols
+620	enzyme
+620	Surface polysaccharides & antigens
+621	phenotype
+621	Not classified
+625	putative enzyme
+625	Biosynthesis of cofactors, carriers: Lipoate
+626	putative regulator
+626	Not classified
+627	enzyme
+627	Biosynthesis of cofactors, carriers: Lipoate
+629	enzyme
+629	Murein sacculus, peptidoglycan
+630	membrane
+630	Macromolecule synthesis, modification: Lipoprotein
+631	phenotype
+631	Cell division
+632	enzyme
+632	Cell division
+633	enzyme
+633	rRNA modification
+634	factor
+634	Ribosomes - maturation and modification
+635	putative regulator
+635	Biosynthesis of cofactors, carriers: Cobalamin
+637	enzyme
+637	DNA - replication, repair, restriction/modification
+638	membrane
+638	Macromolecule synthesis, modification: Lipoprotein
+639	enzyme
+639	Aminoacyl tRNA synthetases, tRNA modification
+640	phenotype
+640	Not classified
+643	putative factor
+643	Chaperones
+645	putative enzyme
+645	Not classified
+646	factor
+646	Chaperones
+647	putative enzyme
+647	Not classified
+648	orf
+648	Not classified
+649	transport
+649	Transport of small molecules: Amino acids, amines
+650	transport
+650	Transport of small molecules: Amino acids, amines
+651	transport
+651	Transport of small molecules: Amino acids, amines
+652	transport
+652	Amino acids
+653	IS, phage, Tn
+653	Transposon-related functions
+653	extrachromosomal
+653	transposon related
+654	enzyme
+654	Transport of small molecules: Cations
+655	putative transport
+655	Not classified
+658	enzyme
+658	tRNA modification
+660	enzyme
+660	Amino acid biosynthesis: Asparagine
+661	enzyme
+661	Central intermediary metabolism: Amino sugars
+662	regulator
+662	Central intermediary metabolism: Amino sugars
+663	enzyme
+663	Central intermediary metabolism: Amino sugars
+664	enzyme
+664	Central intermediary metabolism: Amino sugars
+665	enzyme
+665	Transport of small molecules: Amino acids, amines
+666	enzyme
+666	Aminoacyl tRNA synthetases, tRNA modification
+669	regulator
+669	Global regulatory functions
+671	enzyme
+671	Energy metabolism, carbon: Electron transport
+674	regulator
+674	DNA - replication, repair, restriction/modification
+675	enzyme
+675	Degradation of small molecules: Carbon compounds
+676	putative enzyme
+676	Not classified
+679	transport
+679	Transport of small molecules: Amino acids, amines
+680	enzyme
+680	Central intermediary metabolism: Polyamine biosynthesis
+682	regulator
+682	Global regulatory functions
+683	enzyme
+683	Global regulatory functions
+684	enzyme
+684	Transport of small molecules: Cations
+685	enzyme
+685	Transport of small molecules: Cations
+686	enzyme
+686	Transport of small molecules: Cations
+695	putative enzyme
+695	Not classified
+697	enzyme
+697	DNA - replication, repair, restriction/modification
+698	transport
+698	Not classified
+700	putative enzyme
+700	Not classified
+701	putative enzyme
+701	Not classified
+702	phenotype
+702	Not classified
+703	enzyme
+703	DNA - replication, repair, restriction/modification
+704	putative transport
+704	Not classified
+706	putative factor
+706	Surface structures
+707	putative membrane
+707	Not classified
+708	putative structural component
+708	Surface structures
+709	enzyme
+709	Energy metabolism, carbon: TCA cycle
+710	enzyme
+710	Energy metabolism, carbon: TCA cycle
+711	enzyme
+711	Energy metabolism, carbon: TCA cycle
+712	enzyme
+712	Energy metabolism, carbon: TCA cycle
+713	enzyme
+713	Energy metabolism, carbon: TCA cycle
+714	enzyme
+714	Energy metabolism, carbon: TCA cycle
+715	enzyme
+715	Energy metabolism, carbon: TCA cycle
+716	enzyme
+716	Energy metabolism, carbon: TCA cycle
+717	enzyme
+717	Energy metabolism, carbon: TCA cycle
+718	regulator
+718	Energy metabolism, carbon: TCA cycle
+719	enzyme
+719	Proteins - translation and modification
+720	enzyme
+720	Not classified
+721	enzyme
+721	Energy metabolism, carbon: Electron transport
+722	enzyme
+722	Energy metabolism, carbon: Electron transport
+725	enzyme
+725	Fatty acid and phosphatidic acid biosynthesis
+726	membrane
+726	Colicin-related functions
+727	putative transport
+727	Not classified
+728	membrane
+728	Colicin-related functions
+729	factor
+729	Colicin-related functions
+730	membrane
+730	Macromolecule synthesis, modification: Lipoprotein
+732	enzyme
+732	Biosynthesis of cofactors, carriers: Pyridine nucleotide
+733	transport
+733	Transport of small molecules: Nucleosides, purines, pyrimidines
+734	putative transport
+734	Not classified
+735	putative regulator
+735	Not classified
+736	enzyme
+736	Amino acid biosynthesis: Phenylalanine
+737	enzyme
+737	Energy metabolism, carbon: Glycolysis
+738	enzyme
+738	Central intermediary metabolism: Pool, multipurpose conversions
+739	enzyme
+739	Degradation of small molecules: Carbon compounds
+740	enzyme
+740	Degradation of small molecules: Carbon compounds
+741	enzyme
+741	Degradation of small molecules: Carbon compounds
+742	transport
+742	Transport of small molecules: Anions
+743	regulator
+743	Transport of small molecules: Anions
+745	transport
+745	Transport of small molecules: Anions
+746	transport
+746	Transport of small molecules: Anions
+747	transport
+747	Transport of small molecules: Anions
+748	putative enzyme
+748	Not classified
+749	orf
+749	Not classified
+750	putative regulator
+750	Not classified
+751	putative enzyme
+751	Not classified
+752	orf
+752	Not classified
+753	putative enzyme
+753	Not classified
+754	putative enzyme
+756	enzyme
+756	Biosynthesis of cofactors, carriers: Biotin
+757	enzyme
+757	Biosynthesis of cofactors, carriers: Biotin
+758	enzyme
+758	Biosynthesis of cofactors, carriers: Biotin
+759	enzyme
+759	Biosynthesis of cofactors, carriers: Biotin
+760	enzyme
+760	Biosynthesis of cofactors, carriers: Biotin
+761	enzyme
+761	Degradation of DNA
+762	putative structure
+762	Not classified
+763	enzyme
+763	Biosynthesis of cofactors, carriers: Molybdopterin
+764	enzyme
+764	Biosynthesis of cofactors, carriers: Molybdopterin
+765	enzyme
+765	Biosynthesis of cofactors, carriers: Molybdopterin
+766	enzyme
+766	Biosynthesis of cofactors, carriers: Molybdopterin
+767	enzyme
+767	Biosynthesis of cofactors, carriers: Molybdopterin
+771	Enzyme
+771	Macromolecule synthesis: Phospholipids
+776	putative transport
+776	Not classified
+777	putative membrane
+777	Not classified
+778	putative regulator
+778	Not classified
+779	putative enzyme
+779	Not classified
+781	putative enzyme
+781	DNA - replication, repair, restriction/modification
+782	putative enzyme
+782	Not classified
+783	putative enzyme
+783	Not classified
+786	putative enzyme
+786	Not classified
+787	membrane
+787	Outer membrane constituents
+789	enzyme
+789	rRNA modification
+790	putative transport
+790	Not classified
+791	transport
+791	Transport of small molecules: Amino acids, amines
+792	transport
+792	Transport of small molecules: Amino acids, amines
+793	transport
+793	Transport of small molecules: Amino acids, amines
+794	regulator
+794	Global regulatory functions
+795	putative membrane
+795	Not classified
+796	membrane
+796	Outer membrane constituents
+797	putative enzyme
+797	Not classified
+799	regulator
+799	Not classified
+801	enzyme
+801	Murein sacculus, peptidoglycan
+802	putative factor
+802	Not classified
+805	putative enzyme
+805	Not classified
+806	putative enzyme
+806	Not classified
+808	enzyme
+808	Biosynthesis of cofactors, carriers: Molybdopterin
+809	enzyme
+809	Biosynthesis of cofactors, carriers: Molybdopterin
+810	orf
+810	Not classified
+811	putative transport
+811	Not classified
+812	putative transport
+812	Not classified
+813	putative transport
+813	Not classified
+814	putative transport
+814	Not classified
+818	putative factor
+818	Not classified
+819	putative enzyme
+819	Not classified
+820	enzyme
+820	Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+821	enzyme
+821	Murein sacculus, peptidoglycan
+822	regulator
+822	Salvage of nucleosides and nucleotides
+824	transport
+824	Transport of small molecules: Other
+826	enzyme
+826	Biosynthesis of cofactors, carriers: Riboflavin
+827	putative regulator
+827	Not classified
+828	putative regulator
+828	Not classified
+829	putative transport
+829	Not classified
+831	carrier
+831	Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+833	phenotype
+833	Not classified
+834	structural component
+834	Ribosomes - maturation and modification
+835	putative regulator
+835	Not classified
+836	transport
+836	Transport of small molecules: Amino acids, amines
+837	transport
+837	Transport of small molecules: Amino acids, amines
+838	transport
+838	Transport of small molecules: Amino acids, amines
+839	transport
+839	Transport of small molecules: Amino acids, amines
+841	enzyme
+841	rRNA modification
+842	transport
+842	Transport of small molecules: Amino acids, amines
+843	transport
+843	Transport of small molecules: Amino acids, amines
+844	transport
+844	Transport of small molecules: Amino acids, amines
+845	transport
+845	Transport of small molecules: Amino acids, amines
+846	transport
+846	Transport of small molecules: Amino acids, amines
+847	putative enzyme
+847	Not classified
+849	putative regulator
+849	Not classified
+850	putative enzyme
+850	Not classified
+851	putative enzyme
+851	Not classified
+852	putative enzyme
+852	Not classified
+853	enzyme
+853	Degradation of small molecules: Carbon compounds
+854	putative enzyme
+854	Not classified
+855	orf
+855	Not classified
+856	putative structure
+856	Not classified
+857	transport
+857	Transport of small molecules: Other
+859	putative enzyme
+859	Not classified
+860	putative membrane
+860	Not classified
+861	putative transport
+861	Not classified
+862	phenotype
+862	Not classified
+864	enzyme
+864	Degradation of proteins, peptides, glyco
+865	factor
+865	Proteins - translation and modification
+866	enzyme
+866	Aminoacyl tRNA synthetases, tRNA modification
+867	transport
+867	Transport of small molecules: Other
+868	transport
+868	Not classified
+869	enzyme
+869	2'-Deoxyribonucleotide metabolism
+870	regulator
+870	Central intermediary metabolism: Pool, multipurpose conversions
+871	phenotype
+871	Cell division
+872	transport
+872	Protein, peptide secretion
+873	putative enzyme
+873	Not classified
+874	enzyme
+874	Aminoacyl tRNA synthetases, tRNA modification
+875	enzyme
+875	Energy metabolism, carbon: Anaerobic respiration
+876	enzyme
+876	Energy metabolism, carbon: Anaerobic respiration
+877	enzyme
+877	Energy metabolism, carbon: Anaerobic respiration
+879	putative transport
+879	Not classified
+880	putative transport
+880	Not classified
+881	putative regulator
+881	Not classified
+883	enzyme
+883	Energy metabolism, carbon: Anaerobic respiration
+884	enzyme
+884	Energy metabolism, carbon: Anaerobic respiration
+885	putative transport
+885	Degradation of small molecules: Carbon compounds
+888	enzyme
+888	Amino acid biosynthesis: Serine
+889	enzyme
+889	Amino acid biosynthesis: Chorismate
+890	putative factor
+890	Not classified
+891	enzyme
+891	Pyrimidine ribonucleotide biosynthesis
+892	structural component
+892	Ribosomal proteins - synthesis, modification
+893	factor
+893	DNA - replication, repair, restriction/modification
+895	transport
+895	Transport of small molecules: Other
+896	putative enzyme
+896	Not classified
+899	enzyme
+899	Surface polysaccharides & antigens
+901	factor
+901	Murein sacculus, peptidoglycan
+902	enzyme
+902	Central intermediary metabolism: Pool, multipurpose conversions
+903	factor
+903	Cell killing
+905	structural component
+905	Cell division
+906	enzyme
+906	Murein sacculus, peptidoglycan
+909	enzyme
+909	Amino acid biosynthesis: Aspartate
+910	membrane
+910	Outer membrane constituents
+911	enzyme
+911	Aminoacyl tRNA synthetases, tRNA modification
+912	enzyme
+912	Biosynthesis of cofactors, carriers: Pyridine nucleotide
+913	enzyme
+913	Degradation of proteins, peptides, glyco
+914	transport
+914	Not classified
+915	putative transport
+915	Not classified
+919	structural component
+919	Surface structures
+920	putative factor
+920	Surface structures
+921	putative membrane
+921	Outer membrane constituents
+922	putative structural component
+922	Surface structures
+923	putative structural component
+923	Surface structures
+924	putative structural component
+924	Surface structures
+925	putative factor
+925	Surface structures
+926	enzyme
+926	Pyrimidine ribonucleotide biosynthesis
+929	enzyme
+929	rRNA modification
+930	factor
+930	DNA - replication, repair, restriction/modification
+931	phenotype
+931	Not classified
+932	phenotype
+932	Not classified
+934	factor
+934	Ribosomes - maturation and modification
+935	enzyme
+935	Fatty acid and phosphatidic acid biosynthesis
+936	putative enzyme
+936	Not classified
+937	factor
+937	DNA - replication, repair, restriction/modification
+938	membrane
+938	Outer membrane constituents
+939	phenotype
+939	Cell division
+943	enzyme
+943	DNA - replication, repair, restriction/modification
+944	enzyme
+944	Central intermediary metabolism: Pool, multipurpose conversions
+948	enzyme
+948	rRNA modification
+950	orf
+950	Not classified
+951	putative transport
+951	Not classified
+952	enzyme
+952	Energy metabolism, carbon: Aerobic respiration
+953	enzyme
+953	Energy metabolism, carbon: Aerobic respiration
+954	putative enzyme
+954	Energy metabolism, carbon: Aerobic respiration
+955	factor
+955	Energy metabolism, carbon: Aerobic respiration
+956	factor
+956	Energy metabolism, carbon: Aerobic respiration
+957	phenotype
+957	Energy metabolism, carbon: Aerobic respiration
+958	putative enzyme
+958	Energy metabolism, carbon: Electron transport
+959	putative enzyme
+959	Energy metabolism, carbon: Electron transport
+961	enzyme
+961	Central intermediary metabolism: Pool, multipurpose conversions
+963	enzyme
+963	Not classified
+964	transport
+964	Not classified
+967	putative regulator
+967	Not classified
+969	IS, phage, Tn
+969	Transposon-related functions
+969	extrachromosomal
+969	transposon related
+970	IS, phage, Tn
+970	Transposon-related functions
+970	extrachromosomal
+970	transposon related
+971	phenotype
+971	Not classified
+972	phenotype
+972	Not classified
+973	phenotype
+973	Not classified
+976	enzyme
+976	Energy metabolism, carbon: Anaerobic respiration
+977	regulator
+977	Energy metabolism, carbon: Anaerobic respiration
+978	regulator
+978	Energy metabolism, carbon: Anaerobic respiration
+979	enzyme
+979	Energy metabolism, carbon: Anaerobic respiration
+980	enzyme
+980	Energy metabolism, carbon: Anaerobic respiration
+981	enzyme
+981	Energy metabolism, carbon: Anaerobic respiration
+983	factor
+983	Chaperones
+985	enzyme
+985	Central intermediary metabolism: Pool, multipurpose conversions
+987	enzyme
+987	Not classified
+989	transport
+989	Pyrimidine nitrogen catabolism
+990	enzyme
+990	Pyrimidine nitrogen catabolism
+991	enzyme
+991	Pyrimidine nitrogen catabolism
+992	enzyme
+992	Pyrimidine nitrogen catabolism
+993	enzyme
+993	Pyrimidine nitrogen catabolism
+994	enzyme
+994	Pyrimidine nitrogen catabolism
+995	enzyme
+995	Pyrimidine nitrogen catabolism
+996	regulator
+996	Pyrimidine nitrogen catabolism
+997	enzyme
+997	Degradation of small molecules: Amino acids
+998	transport
+998	Transport of small molecules: Cations
+1002	regulator
+1002	Central intermediary metabolism: Phosphorus compounds
+1003	enzyme
+1003	Surface polysaccharides and antigens
+1004	enzyme
+1004	Surface polysaccharides and antigens
+1005	transport
+1005	Surface polysaccharides & antigens
+1006	transport
+1006	Surface polysaccharides & antigens
+1008	IS, phage, Tn
+1008	Transposon-related functions
+1008	extrachromosomal
+1008	transposon related
+1009	IS, phage, Tn
+1009	Transposon-related functions
+1009	extrachromosomal
+1009	transposon related
+1012	enzyme
+1012	Not classified
+1013	enzyme
+1013	Central intermediary metabolism: Phosphorus compounds
+1014	putative enzyme
+1014	Not classified
+1016	structural component
+1016	Surface structures
+1017	structural component
+1017	Surface structures
+1018	structural component
+1018	Surface structures
+1019	putative regulator
+1019	Not classified
+1020	structural component
+1020	Surface structures
+1021	regulator
+1021	Surface structures
+1022	putative structure
+1022	Not classified
+1025	Enzyme
+1025	Macromolecule synthesis: Phospholipids
+1027	enzyme
+1027	Osmoregulated periplasmic glucan (OPG) biosynthesis
+1028	enzyme
+1028	Osmoregulated periplasmic glucan (OPG) biosynthesis biosynthesis
+1030	phenotype
+1030	Protein, peptide secretion
+1031	putative transport
+1031	Not classified
+1032	factor
+1032	Adaptations, atypical conditions
+1035	putative enzyme
+1035	Not classified
+1037	putative enzyme
+1037	Not classified
+1039	phenotype
+1039	Not classified
+1040	enzyme
+1040	Pyrimidine ribonucleotide biosynthesis
+1042	carrier
+1042	Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+1044	enzyme
+1044	Ribosomes - maturation and modification
+1046	putative factor
+1046	Not classified
+1047	putative factor
+1047	Not classified
+1048	phenotype
+1048	Surface structures
+1049	factor
+1049	Surface structures
+1050	putative structure
+1050	Surface structures
+1051	structural component
+1051	Surface structures
+1052	structural component
+1052	Surface structures
+1053	putative structure
+1053	Surface structures
+1054	structural component
+1054	Surface structures
+1055	structural component
+1055	Surface structures
+1056	structural component
+1056	Surface structures
+1057	structural component
+1057	Surface structures
+1058	putative structural component
+1058	Surface structures
+1059	structure
+1059	Surface structures
+1059	enzyme
+1059	Murein sacculus, peptidoglycan
+1060	structural component
+1060	Surface structures
+1061	structural component
+1061	Surface structures
+1062	enzyme
+1062	Degradation of RNA
+1064	enzyme
+1064	rRNA modification
+1067	structural component
+1067	Ribosomal proteins - synthesis, modification
+1068	phenotype
+1068	Macromolecule synthesis, modification: Phospholipids
+1069	enzyme
+1069	Fatty acid and phosphatidic acid biosynthesis
+1070	enzyme
+1070	Fatty acid and phosphatidic acid biosynthesis
+1071	enzyme
+1071	Fatty acid and phosphatidic acid biosynthesis
+1072	carrier
+1072	Fatty acid and phosphatidic acid biosynthesis
+1073	enzyme
+1073	Fatty acid and phosphatidic acid biosynthesis
+1074	enzyme
+1074	Biosynthesis of cofactors, carriers: Folic acid
+1075	putative enzyme
+1075	Not classified
+1076	enzyme
+1076	2'-Deoxyribonucleotide metabolism
+1077	enzyme
+1077	DNA - replication, repair, restriction/modification
+1079	transport
+1079	Transport of small molecules: Carbohydrates, organic acids, alcohols
+1080	transport
+1080	Transport of small molecules: Cations
+1084	enzyme
+1084	Biosynthesis of cofactors, carriers: Thiamine
+1087	enzyme
+1087	Energy metabolism, carbon: Aerobic respiration
+1089	regulator
+1089	Not classified
+1091	enzyme
+1091	Murein sacculus, peptidoglycan
+1092	factor
+1092	DNA - replication, repair, restriction/modification
+1095	putative transport
+1095	Not classified
+1096	putative enzyme
+1096	Not classified
+1099	putative factor
+1099	Not classified
+1101	transport
+1101	Transport of small molecules: Amino acids, amines
+1102	transport
+1102	Transport of small molecules: Amino acids, amines
+1103	transport
+1103	Transport of small molecules: Amino acids, amines
+1104	transport
+1104	Transport of small molecules: Amino acids, amines
+1105	enzyme
+1105	Degradation of proteins, peptides, glyco
+1106	enzyme
+1106	Proteins - translation and modification
+1107	enzyme
+1107	Global regulatory functions
+1108	regulator
+1108	Global regulatory functions
+1109	enzyme
+1109	Purine ribonucleotide biosynthesis
+1111	enzyme
+1111	tRNA modification
+1112	putative enzyme
+1112	Not classified
+1113	enzyme
+1113	rRNA modification
+1114	enzyme
+1114	Energy metabolism, carbon: TCA cycle
+1114	Phage or Prophage Related
+1115	Phage or Prophage Related
+1116	Phage or Prophage Related
+1117	membrane
+1117	Phage or Prophage Related
+1118	Phage or Prophage Related
+1119	Phage or Prophage Related
+1120	Phage or Prophage Related
+1121	Phage or Prophage Related
+1122	Phage or Prophage Related
+1123	Phage or Prophage Related
+1124	Phage or Prophage Related
+1125	Phage or Prophage Related
+1128	Phage or Prophage Related
+1131	Phage or Prophage Related
+1132	Phage or Prophage Related
+1133	Phage or Prophage Related
+1134	Phage or Prophage Related
+1136	membrane
+1136	Phage or Prophage Related
+1137	putative enzyme
+1137	Phage or Prophage Related
+1141	putative regulator
+1141	Not classified
+1147	putative enzyme
+1147	Not classified
+1155	factor
+1155	Cell division
+1156	enzyme
+1156	Cell division
+1157	factor
+1157	Cell division
+1161	putative enzyme
+1161	Not classified
+1163	phenotype
+1163	Not classified
+1164	putative enzyme
+1164	DNA - replication, repair, restriction/modification
+1165	putative enzyme
+1165	DNA - replication, repair, restriction/modification
+1166	enzyme
+1166	Surface structures
+1167	transport
+1167	Transport of small molecules: Cations
+1168	regulator
+1168	Degradation of small molecules: Fatty acids
+1170	enzyme
+1170	Degradation of small molecules: Amino acids
+1171	enzyme
+1171	Degradation of small molecules: Amino acids
+1173	enzyme
+1173	Murein sacculus, peptidoglycan
+1174	enzyme
+1174	Murein sacculus, peptidoglycan
+1178	enzyme
+1178	Osmotic adaptation
+1180	putative enzyme
+1180	Not classified
+1181	putative enzyme
+1181	Not classified
+1182	putative regulator
+1182	Not classified
+1183	putative factor
+1183	Not classified
+1184	enzyme
+1184	Not classified
+1185	enzyme
+1185	Aminoacyl tRNA synthetases, tRNA modification
+1188	enzyme
+1188	Purine ribonucleotide biosynthesis
+1190	enzyme
+1190	Biosynthesis of cofactors, carriers: Heme, porphyrin
+1191	enzyme
+1191	Biosynthesis of cofactors, carriers: Heme, porphyrin
+1192	factor
+1192	Proteins - translation and modification
+1193	putative enzyme
+1193	Biosynthesis of cofactors, carriers: Heme, porphyrin
+1195	putative enzyme
+1195	Not classified
+1196	enzyme
+1196	Surface polysaccharides & antigens
+1200	transport
+1200	Transport of small molecules: Cations
+1201	regulator
+1201	Transport of small molecules: Cations
+1202	transport
+1202	Transport of small molecules: Cations
+1204	putative factor
+1204	Not classified
+1205	regulator
+1205	Energy metabolism, carbon: Anaerobic respiration
+1206	enzyme
+1206	Energy metabolism, carbon: Anaerobic respiration
+1207	transport
+1207	Transport of small molecules: Anions
+1208	enzyme
+1208	Energy metabolism, carbon: Anaerobic respiration
+1209	enzyme
+1209	Energy metabolism, carbon: Anaerobic respiration
+1210	enzyme
+1210	Energy metabolism, carbon: Anaerobic respiration
+1211	enzyme
+1211	Energy metabolism, carbon: Anaerobic respiration
+1212	factor
+1212	Basic proteins - synthesis, modification
+1213	enzyme
+1213	Purine ribonucleotide biosynthesis
+1216	regulator
+1216	Basic proteins - synthesis, modification
+1217	enzyme
+1217	Degradation of small molecules: Carbon compounds
+1218	regulator
+1218	Basic proteins - synthesis, modification
+1219	enzyme
+1219	Salvage of nucleosides and nucleotides
+1221	enzyme
+1221	Energy metabolism, carbon: Fermentation
+1222	putative transport
+1222	Not classified
+1223	transport
+1223	Not classified
+1224	transport
+1224	Not classified
+1225	transport
+1225	Not classified
+1226	transport
+1226	Not classified
+1227	putative transport
+1227	Not classified
+1229	enzyme
+1229	Macromolecule synthesis: Phospholipids
+1233	membrane
+1233	Transport of small molecules: Cations
+1237	putative membrane
+1237	Not classified
+1239	putative structure
+1239	Not classified
+1241	enzyme
+1241	Amino acid biosynthesis: Tryptophan
+1242	enzyme
+1242	Amino acid biosynthesis: Tryptophan
+1243	enzyme
+1243	Amino acid biosynthesis: Tryptophan
+1244	enzyme
+1244	Amino acid biosynthesis: Tryptophan
+1245	enzyme
+1245	Amino acid biosynthesis: Tryptophan
+1246	leader
+1246	Amino acid biosynthesis: Tryptophan
+1247	putative enzyme
+1247	Not classified
+1250	enzyme
+1250	rRNA modification
+1251	enzyme
+1251	Biosynthesis of cofactors, carriers: Cobalamin
+1252	putative enzyme
+1252	Not classified
+1253	putative enzyme
+1253	Not classified
+1255	enzyme
+1255	DNA - replication, repair, restriction/modification
+1256	transport
+1256	Amino acid biosynthesis: Cysteine
+1259	enzyme
+1259	Energy metabolism, carbon: TCA cycle
+1260	enzyme
+1260	Biosynthesis of cofactors, carriers: Riboflavin
+1261	enzyme
+1261	Macromolecule synthesis, modification: Phospholipids
+1263	putative factor
+1263	Not classified
+1264	enzyme
+1264	Pyrimidine ribonucleotide biosynthesis
+1266	putative membrane
+1266	Osmotic adaptation
+1267	putative regulator
+1267	Not classified
+1271	enzyme
+1271	Degradation of RNA
+1272	putative enzyme
+1272	Not classified
+1273	enzyme
+1273	Fatty acid and phosphatidic acid biosynthesis
+1275	putative transport
+1275	Not classified
+1276	putative transport
+1276	Not classified
+1277	putative transport
+1277	Not classified
+1278	putative transport
+1278	Not classified
+1279	putative transport
+1279	Not classified
+1281	transport
+1281	Degradation of small molecules: Carbon compounds
+1282	enzyme
+1282	Degradation of small molecules: Carbon compounds
+1283	enzyme
+1283	Degradation of small molecules: Carbon compounds
+1284	regulator
+1284	Degradation of small molecules: Carbon compounds
+1285	enzyme
+1285	Degradation of small molecules: Carbon compounds
+1286	enzyme
+1286	Degradation of small molecules: Carbon compounds
+1287	enzyme
+1287	Degradation of small molecules: Carbon compounds
+1288	regulator
+1288	Phage-related functions and prophages
+1289	factor
+1289	Phage-related functions and prophages
+1290	IS, phage, Tn
+1290	Phage-related functions and prophages
+1291	factor
+1291	Phage-related functions and prophages
+1292	IS, phage, Tn
+1292	Phage-related functions and prophages
+1293	IS, phage, Tn
+1293	Phage-related functions and prophages
+1294	putative enzyme
+1294	Not classified
+1295	putative transport
+1295	Not classified
+1296	putative transport
+1296	Not classified
+1297	putative transport
+1297	Not classified
+1298	putative enzyme
+1298	Not classified
+1299	putative factor
+1299	Not classified
+1300	putative enzyme
+1300	Not classified
+1302	enzyme
+1302	Not classified
+1304	membrane
+1304	Outer membrane constituents
+1305	putative regulator
+1305	Not classified
+1306	putative enzyme
+1306	Not classified
+1308	regulator
+1308	Transport of small molecules: Amino acids, amines
+1309	enzyme
+1309	Detoxification
+1310	putative enzyme
+1310	Not classified
+1311	enzyme
+1311	Not classified
+1315	regulator
+1315	Not classified
+1316	transport
+1316	Not classified
+1318	IS, phage, Tn
+1318	Transposon-related functions
+1318	extrachromosomal
+1318	transposon related
+1321	regulator
+1321	Global regulatory functions
+1322	enzyme
+1322	DNA - replication, repair, restriction/modification
+1323	putative transport
+1323	Not classified
+1324	enzyme
+1324	Degradation of small molecules: Carbon compounds
+1325	enzyme
+1325	Degradation of small molecules: Carbon compounds
+1326	putative regulator
+1326	Not classified
+1330	enzyme
+1330	RNA synthesis, modification, DNA transcription
+1331	putative enzyme
+1331	Not classified
+1332	Phage or Prophage Related
+1333	Phage or Prophage Related
+1334	Phage or Prophage Related
+1335	enzyme
+1335	Phage or Prophage Related
+1336	enzyme
+1336	DNA - replication, repair, restriction/modification: Phage or Prophage Related
+1337	enzyme
+1337	Degradation of DNA
+1337	Phage or Prophage Related
+1338	membrane
+1338	Phage or Prophage Related
+1339	Phage or Prophage Related
+1340	Phage or Prophage Related
+1341	phenotype
+1341	Phage or Prophage Related
+1342	Phage or Prophage Related
+1343	Phage or Prophage Related
+1344	Phage or Prophage Related
+1345	Phage or Prophage Related
+1346	Phage or Prophage Related
+1347	Phage or Prophage Related
+1348	Phage or Prophage Related
+1351	Phage or Prophage Related
+1352	transport
+1352	Transport of small molecules: Cations
+1352	Phage or Prophage Related
+1353	Phage or Prophage Related
+1357	IS, phage, Tn
+1357	Transposon-related functions
+1357	extrachromosomal
+1357	transposon related
+1358	Phage or Prophage Related
+1359	Phage or Prophage Related
+1360	Phage or Prophage Related
+1361	Phage or Prophage Related
+1363	putative structure
+1363	Not classified
+1364	putative membrane
+1364	Not classified
+1365	putative enzyme
+1365	Not classified
+1367	factor
+1367	Adaptations, atypical conditions
+1368	enzyme
+1368	Energy metabolism, carbon: Fermentation
+1372	regulator
+1372	Not classified
+1373	enzyme
+1373	Degradation of small molecules: Carbon compounds
+1374	enzyme
+1374	Degradation of small molecules: Amines
+1375	enzyme
+1375	Phenylacetic acid degradation
+1376	enzyme
+1376	Phenylacetic acid degradation
+1377	enzyme
+1377	Phenylacetic acid degradation
+1378	enzyme
+1378	Phenylacetic acid degradation
+1379	enzyme
+1379	Phenylacetic acid degradation
+1380	enzyme
+1380	Phenylacetic acid degradation
+1381	enzyme
+1381	Phenylacetic acid degradation
+1382	enzyme
+1382	Phenylacetic acid degradation
+1383	enzyme
+1383	Phenylacetic acid degradation
+1384	enzyme
+1384	Phenylacetic acid degradation
+1385	enzyme
+1385	Phenylacetic acid degradation
+1386	enzyme
+1386	Phenylacetic acid degradation
+1387	regualtor: Phenylacetic acid degradation
+1388	enzyme
+1388	Phenylacetic acid degradation
+1391	IS, phage, Tn
+1391	Transposon-related functions
+1391	extrachromosomal
+1391	transposon related
+1392	IS, phage, Tn
+1392	Transposon-related functions
+1392	extrachromosomal
+1392	transposon related
+1393	IS, phage, Tn
+1393	Transposon-related functions
+1393	extrachromosomal
+1393	transposon related
+1394	putative enzyme
+1394	Not classified
+1396	putative enzyme
+1396	Not classified
+1397	putative enzyme
+1397	Central intermediary metabolism: Nucleotide interconversions
+1399	putative enzyme
+1399	Not classified
+1400	enzyme
+1400	Fatty acid and phosphatidic acid biosynthesis
+1401	enzyme
+1401	DNA - replication, repair, restriction/modification
+1403	enzyme
+1403	Energy metabolism, carbon: Fermentation
+1405	enzyme
+1405	Energy metabolism, carbon: Electron transport
+1409	regulator
+1409	Chemotaxis and mobility
+1410	putative regulator
+1410	Not classified
+1411	putative enzyme
+1411	Not classified
+1412	putative structure
+1412	Not classified
+1414	enzyme
+1414	Ribosomes - maturation and modification
+1415	putative enzyme
+1415	Not classified
+1416	transport
+1416	Drug/analog sensitivity
+1417	enzyme
+1417	Drug/analog sensitivity
+1420	IS, phage, Tn
+1420	Transposon-related functions
+1420	extrachromosomal
+1420	transposon related
+1421	putative transport
+1421	Not classified
+1422	putative regulator
+1422	Not classified
+1423	putative enzyme
+1423	Not classified
+1427	putative regulator
+1427	Not classified
+1428	enzyme
+1428	Not classified
+1429	putative transport
+1429	Not classified
+1430	putative transport
+1430	Not classified
+1431	putative transport
+1431	Not classified
+1432	putative enzyme
+1432	Not classified
+1437	enzyme
+1437	Proteins - translation and modification
+1438	enzyme
+1438	Not classified
+1439	putative regulator
+1439	Not classified
+1440	putative transport
+1440	Not classified
+1441	putative factor
+1441	Not classified
+1442	transport
+1442	Transport of small molecules: Amino acids, amines
+1443	putative enzyme
+1443	Not classified
+1448	putative enzyme
+1448	Not classified
+1452	putative enzyme
+1452	Not classified
+1453	enzyme
+1453	Energy metabolism, carbon: Anaerobic respiration
+1454	enzyme
+1454	Energy metabolism, carbon: Anaerobic respiration
+1455	enzyme
+1455	Energy metabolism, carbon: Anaerobic respiration
+1456	enzyme
+1456	Energy metabolism, carbon: Anaerobic respiration
+1457	transport
+1457	Transport of small molecules: Anions
+1461	enzyme
+1461	Energy metabolism, carbon: Anaerobic respiration
+1462	enzyme
+1462	Energy metabolism, carbon: Anaerobic respiration
+1463	enzyme
+1463	Energy metabolism, carbon: Anaerobic respiration
+1465	enzyme
+1465	Energy metabolism, carbon: Anaerobic respiration
+1466	enzyme
+1466	Central intermediary metabolism: Gluconeogenesis
+1467	structural component
+1467	Ribosomal proteins - synthesis, modification
+1469	phenotype
+1469	Osmotic adaptation
+1470	putative transport
+1470	Not classified
+1471	putative transport
+1471	Not classified
+1472	putative transport
+1472	Not classified
+1473	putative transport
+1473	Not classified
+1474	putative factor
+1474	Not classified
+1476	putative enzyme
+1476	Not classified
+1479	putative transport
+1479	Not classified
+1480	enzyme
+1480	Central intermediary metabolism: Pool, multipurpose conversions
+1481	putative enzyme
+1481	Not classified
+1483	putative transport
+1483	Not classified
+1484	putative enzyme
+1484	Not classified
+1485	putative enzyme
+1485	Not classified
+1486	regulator
+1486	Not classified
+1487	regulator
+1487	Global regulatory functions
+1488	putative enzyme
+1488	Not classified
+1489	putative structural component
+1489	Surface structures
+1490	putative structural component
+1490	Surface structures
+1491	putative structural component
+1491	Surface structures
+1494	enzyme
+1494	Protein modification
+1495	regulator
+1495	Murein sacculus, peptidoglycan
+1497	enzyme
+1497	Not classified
+1498	regulator
+1498	Transport of small molecules: Carbohydrates, organic acids, alcohols
+1499	transport
+1499	Transport of small molecules: Carbohydrates, organic acids, alcohols
+1500	transport
+1500	Transport of small molecules: Carbohydrates, organic acids, alcohols
+1501	transport
+1501	Transport of small molecules: Carbohydrates, organic acids, alcohols
+1502	putative regulator
+1502	Not classified
+1503	enzyme
+1503	Degradation of small molecules: Carbon compounds
+1504	enzyme
+1504	Degradation of small molecules: Carbon compounds
+1505	enzyme
+1505	Detoxification
+1507	enzyme
+1507	Degradation of small molecules: Carbon compounds
+1510	enzyme
+1510	l-glutamine catabolism
+1511	putative enzyme
+1511	Not classified
+1512	putative regulator
+1512	Not classified
+1514	transport
+1514	Transport of small molecules: sugars
+1516	regulator
+1516	Drug/analog sensitivity
+1517	regulator
+1517	Drug/analog sensitivity
+1518	putative transport
+1518	Drug/analog sensitivity
+1520	putative transport
+1520	Not classified
+1525	enzyme
+1525	Degradation of proteins, peptides, glyco
+1526	putative enzyme
+1526	Not classified
+1527	regulator
+1527	Degradation of small molecules
+1529	putative enzyme
+1529	Not classified
+1531	Phage or Prophage Related
+1532	Phage or Prophage Related
+1533	Phage or Prophage Related
+1534	Phage or Prophage Related
+1536	Phage or Prophage Related
+1537	Phage or Prophage Related
+1538	Phage or Prophage Related
+1539	Phage or Prophage Related
+1540	Phage or Prophage Related
+1541	Phage or Prophage Related
+1543	Phage or Prophage Related
+1544	Phage or Prophage Related
+1545	Phage or Prophage Related
+1546	phenotype
+1546	Adaptations, atypical conditions
+1546	Phage or Prophage Related
+1547	Phage or Prophage Related
+1548	Phage or Prophage Related
+1549	Phage or Prophage Related
+1550	Phage or Prophage Related
+1551	factor
+1551	Cell killing
+1552	Phage or Prophage Related
+1553	regulator
+1553	Global regulatory functions
+1553	Phage or Prophage Related
+1554	Phage or Prophage Related
+1555	Phage or Prophage Related
+1558	regulator
+1558	Cell division
+1558	Phage or Prophage Related
+1559	regulator
+1559	Cell division
+1559	Phage or Prophage Related
+1560	Phage or Prophage Related
+1561	Phage or Prophage Related
+1562	Phage or Prophage Related
+1563	regulator
+1563	Cell division
+1563	Phage or Prophage Related
+1564	Phage or Prophage Related
+1568	enzyme
+1568	Global regulatory functions
+1569	phenotype
+1569	Global regulatory functions
+1572	enzyme
+1572	Central intermediary metabolism: Polyamine biosynthesis
+1575	putative enzyme
+1575	Not classified
+1576	putative enzyme
+1576	Not classified
+1577	putative enzyme
+1577	Not classified
+1578	putative enzyme
+1578	Degradation of small molecules: Carbon compounds
+1579	putative enzyme
+1579	Not classified
+1580	transport
+1580	Not classified
+1582	regulator
+1582	Not classified
+1583	putative regulator
+1583	Not classified
+1584	putative transport
+1584	Not classified
+1585	phenotype
+1585	Not classified
+1588	putative factor
+1588	Not classified
+1589	putative factor
+1589	Not classified
+1590	putative transport
+1590	Not classified
+1591	enzyme
+1591	Central intermediary metabolism: Pool, multipurpose conversions
+1592	enzyme
+1592	Central intermediary metabolism: Pool, multipurpose conversions
+1594	putative transport
+1594	Not classified
+1595	enzyme
+1595	Not classified
+1597	regulator
+1597	Not classified
+1598	regulator
+1598	Global regulatory functions
+1599	factor
+1599	DNA - replication, repair, restriction/modification
+1600	enzyme
+1600	Energy metabolism, carbon: TCA cycle
+1601	enzyme
+1601	Energy metabolism, carbon: TCA cycle
+1602	enzyme
+1602	Degradation of small molecules: Carbon compounds
+1604	membrane
+1604	Inner membrane
+1605	transport
+1605	Transport of small molecules: Carbohydrates, organic acids, alcohols
+1606	enzyme
+1606	Degradation of small molecules: Carbon compounds
+1607	regulator
+1607	Degradation of small molecules: Carbon compounds
+1608	enzyme
+1608	Central intermediary metabolism: Pool, multipurpose conversions
+1609	regulator
+1609	Degradation of small molecules: Carbon compounds
+1610	transport
+1610	Transport of small molecules: Carbohydrates, organic acids, alcohols
+1611	enzyme
+1611	Degradation of small molecules: Carbon compounds
+1612	enzyme
+1612	Salvage of nucleosides and nucleotides
+1619	putative membrane
+1619	Not classified
+1623	enzyme
+1623	Degradation of DNA
+1624	transport
+1624	Not classified
+1625	enzyme
+1625	Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+1626	enzyme
+1626	Biosynthesis of cofactors, carriers: Pyridoxine
+1627	enzyme
+1627	Aminoacyl tRNA synthetases, tRNA modification
+1628	enzyme
+1628	Biosynthesis of cofactors, carriers: Pyridoxine
+1630	enzyme
+1630	Murein recycling
+1631	putative membrane
+1631	Not classified
+1632	regulator
+1632	Adaptations, atypical conditions
+1634	putative membrane
+1634	Not classified
+1636	enzyme
+1636	Detoxification
+1640	enzyme
+1640	Central intermediary metabolism: Pool, multipurpose conversions
+1641	enzyme
+1641	Central intermediary metabolism: Pool, multipurpose conversions
+1642	enzyme
+1642	Degradation of RNA
+1643	enzyme
+1643	DNA - replication, repair, restriction/modification
+1645	enzyme
+1645	Murein sacculus, peptidoglycan
+1646	enzyme
+1646	Detoxification
+1647	putative transport
+1647	Not classified
+1649	regulator
+1649	Purine ribonucleotide biosynthesis
+1650	putative regulator
+1650	Not classified
+1651	putative transport
+1651	Not classified
+1652	enzyme
+1652	Fatty acid and phosphatidic acid biosynthesis
+1653	enzyme
+1653	Biosynthesis of cofactors, carriers: Riboflavin
+1654	putative transport
+1654	Not classified
+1655	putative enzyme
+1655	Not classified
+1657	putative enzyme
+1657	Not classified
+1659	putative enzyme
+1659	Not classified
+1660	putative enzyme
+1660	Not classified
+1663	putative enzyme
+1663	Not classified
+1665	enzyme
+1665	Energy metabolism, carbon: Glycolysis
+1666	membrane
+1666	Murein sacculus, peptidoglycan
+1667	enzyme
+1667	Murein sacculus, peptidoglycan
+1675	Enzyme
+1675	Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+1676	putative enzyme
+1676	Not classified
+1679	putative transport
+1679	Not classified
+1680	putative transport
+1680	Not classified
+1681	putative enzyme
+1681	Not classified
+1682	enzyme
+1682	Amino acid biosynthesis: Chorismate
+1683	putative enzyme
+1683	Not classified
+1684	putative enzyme
+1684	Not classified
+1685	putative regulator
+1685	Not classified
+1686	putative enzyme
+1686	Not classified
+1687	putative enzyme
+1687	Not classified
+1688	putative enzyme
+1688	Not classified
+1690	putative enzyme
+1690	Not classified
+1691	enzyme
+1691	Central intermediary metabolism: Gluconeogenesis
+1692	regulatory enzyme
+1692	Central intermediary metabolism: Gluconeogenesis
+1693	enzyme
+1693	Amino acid biosynthesis: Tryptophan
+1697	membrane
+1697	Macromolecule synthesis, modification: Lipoprotein
+1698	transport
+1698	Transport of small molecules: Other
+1699	transport
+1699	Transport of small molecules: Other
+1700	transport
+1700	Transport of small molecules: Other
+1701	factor
+1701	DNA - replication, repair, restriction/modification
+1702	enzyme
+1702	Aminoacyl tRNA synthetases, tRNA modification
+1703	enzyme
+1703	Aminoacyl tRNA synthetases, tRNA modification
+1704	leader
+1704	Aminoacyl tRNA synthetases, tRNA modification
+1705	structural component
+1705	Ribosomal proteins - synthesis, modification
+1706	structural component
+1706	Ribosomal proteins - synthesis, modification
+1707	factor
+1707	Proteins - translation and modification
+1708	enzyme
+1708	Aminoacyl tRNA synthetases, tRNA modification
+1712	enzyme
+1712	Energy metabolism, carbon: Glycolysis
+1716	putative enzyme
+1716	Not classified
+1718	putative enzyme
+1718	Not classified
+1721	enzyme
+1721	Detoxification
+1722	enzyme
+1722	Degradation of small molecules: N,N'-diacetylchitobiose
+1723	enzyme
+1723	Degradation of small molecules: N,N'-diacetylchitobiose
+1724	regulator
+1724	Degradation of small molecules: Carbon compounds
+1725	enzyme
+1725	Transport of small molecules: Carbohydrates, organic acids, alcohols
+1726	enzyme
+1726	Transport of small molecules: Carbohydrates, organic acids, alcohols
+1727	enzyme
+1727	Transport of small molecules: Carbohydrates, organic acids, alcohols
+1728	regulator
+1728	Global regulatory functions
+1729	enzyme
+1729	Biosynthesis of cofactors, carriers: Pyridine nucleotide
+1730	putative enzyme
+1730	Not classified
+1733	enzyme
+1733	Not classified
+1734	enzyme
+1734	Not classified
+1735	enzyme
+1735	Not classified
+1736	enzyme
+1736	Not classified
+1737	enzyme
+1737	Amino acid biosynthesis: Arginine
+1738	enzyme
+1738	Degradation of DNA
+1744	putative transport
+1744	Not classified
+1745	putative transport
+1745	Not classified
+1746	putative enzyme
+1746	Central intermediary metabolism: Sulfur metabolism
+1747	putative enzyme
+1747	Not classified
+1750	enzyme
+1750	Amino acid biosynthesis: Glutamate
+1752	enzyme
+1752	DNA - replication, repair, restriction/modification
+1753	enzyme
+1753	Aminoacyl tRNA synthetases, tRNA modification
+1755	enzyme
+1755	Degradation of proteins, peptides, glyco
+1756	enzyme
+1756	Degradation of small molecules: Amino acids
+1758	putative transport
+1758	Not classified
+1759	putative regulator
+1759	Not classified
+1761	putative enzyme
+1761	Not classified
+1762	putative enzyme
+1762	Not classified
+1763	putative enzyme
+1763	Not classified
+1764	putative transport
+1764	Not classified
+1765	putative enzyme
+1765	Not classified
+1768	enzyme
+1768	Energy metabolism, carbon: Glycolysis
+1769	putative enzyme
+1769	Central intermediary metabolism: Pool, multipurpose conversions
+1770	enzyme
+1770	Degradation of small molecules: Carbon compounds
+1779	putative regulator
+1779	Not classified
+1780	putative transport
+1780	Not classified
+1790	regulator
+1790	Not classified
+1791	enzyme
+1791	Not classified
+1792	putative transport
+1792	Not classified
+1794	putative enzyme
+1794	Not classified
+1795	enzyme
+1795	Degradation of RNA
+1796	enzyme
+1796	Degradation of small molecules: Fatty acids
+1797	membrane
+1797	Not classified
+1798	enzyme
+1798	tRNA modification
+1799	putative enzyme
+1799	Not classified
+1800	putative enzyme
+1800	Not classified
+1803	enzyme
+1803	Biosynthesis of cofactors, carriers: Folic acid
+1805	enzyme
+1805	Degradation of small molecules: Amino acids
+1807	putative transport
+1807	Not classified
+1808	enzyme
+1808	Transport of small molecules: Carbohydrates, organic acids, alcohols
+1809	transport
+1809	Transport of small molecules: Carbohydrates, organic acids, alcohols
+1810	transport
+1810	Transport of small molecules: Carbohydrates, organic acids, alcohols
+1812	putative transport
+1812	Not classified
+1813	enzyme
+1813	rRNA modification
+1814	phenotype
+1814	Not classified
+1817	regulator
+1817	Not classified
+1819	regulator
+1819	Not classified
+1820	putative transport
+1820	Not classified
+1821	orf
+1821	Adaptations, atypical conditions
+1822	enzyme
+1822	Degradation of proteins, peptides, glyco
+1827	enzyme
+1827	rRNA modification
+1830	regulator
+1830	Not classified
+1832	putative transport
+1832	Drug/analog sensitivity
+1834	enzyme
+1834	DNA - replication, repair, restriction/modification
+1835	putative enzyme
+1835	Not classified
+1837	enzyme
+1837	Degradation of proteins, peptides, glyco
+1841	enzyme
+1841	Purine ribonucleotide biosynthesis
+1842	enzyme
+1842	Central intermediary metabolism: Entner-Douderoff
+1843	enzyme
+1843	Central intermediary metabolism: Entner-Douderoff
+1844	enzyme
+1844	Energy metabolism, carbon: Oxidative branch, pentose pathway
+1846	enzyme
+1846	Energy metabolism, carbon: Glycolysis
+1847	putative factor
+1847	Adaptations, atypical conditions
+1848	enzyme
+1848	Murein sacculus, peptidoglycan
+1849	putative factor
+1849	Not classified
+1850	putative transport
+1850	Not classified
+1852	enzyme
+1852	DNA - replication, repair, restriction/modification
+1853	enzyme
+1853	DNA - replication, repair, restriction/modification
+1856	enzyme
+1856	DNA - replication, repair, restriction/modification
+1858	enzyme
+1858	folate metabolism
+1859	enzyme
+1859	Aminoacyl tRNA synthetases, tRNA modification
+1863	enzyme
+1863	tRNA modification
+1864	enzyme
+1864	tRNA modification
+1865	enzyme
+1865	Central intermediary metabolism
+1866	putative enzyme
+1866	Not classified
+1867	putative transport
+1867	Detoxification
+1869	enzyme
+1869	Aminoacyl tRNA synthetases, tRNA modification
+1871	structural component
+1871	Surface structures
+1872	putative structural component
+1872	Surface structures
+1873	structural component
+1873	Not classified
+1874	regulator
+1874	Chemotaxis and mobility
+1875	regulator
+1875	Chemotaxis and mobility
+1876	enzyme
+1876	Chemotaxis and mobility
+1877	enzyme
+1877	Chemotaxis and mobility
+1878	regulator
+1878	Chemotaxis and mobility
+1879	regulator
+1879	Chemotaxis and mobility
+1880	regulator
+1880	Chemotaxis and mobility
+1881	enzyme
+1881	Chemotaxis and mobility
+1882	structural component
+1882	Chemotaxis and mobility
+1883	phenotype
+1883	Chemotaxis and mobility
+1884	regulator
+1884	Surface structures
+1885	regulator
+1885	Surface structures
+1886	IS, phage, Tn
+1886	Transposon-related functions
+1886	extrachromosomal
+1886	transposon related
+1887	IS, phage, Tn
+1887	Transposon-related functions
+1887	extrachromosomal
+1887	transposon related
+1888	putative regulator
+1888	Not classified
+1889	enzyme
+1889	Osmotic adaptation
+1890	enzyme
+1890	Osmotic adaptation
+1891	transport
+1891	Transport of small molecules: Carbohydrates, organic acids, alcohols
+1892	transport
+1892	Transport of small molecules: Carbohydrates, organic acids, alcohols
+1893	transport
+1893	Transport of small molecules: Carbohydrates, organic acids, alcohols
+1894	putative carrier
+1894	Transport of small molecules: Cations
+1898	carrier
+1898	Transport of small molecules: Cations
+1900	transport
+1900	Transport of small molecules: Amino acids, amines
+1902	enzyme
+1902	Macromolecule synthesis, modification: Phospholipids
+1903	enzyme
+1903	Degradation of DNA
+1904	putative regulator
+1904	Not classified
+1906	regulator
+1906	Cell division
+1907	putative transport
+1907	Not classified
+1908	putative transport
+1908	Not classified
+1909	putative enzyme
+1909	Not classified
+1910	putative transport
+1910	Not classified
+1911	structural component
+1911	Unknown
+1912	factor
+1912	Surface structures
+1913	structural component
+1913	Surface structures
+1914	putative structure
+1914	Surface structures
+1915	regulator
+1915	Surface structures
+1916	regulator
+1916	Surface structures
+1917	enzyme
+1917	Degradation of polysaccharides
+1919	putative transport
+1919	Not classified
+1925	structural component
+1925	Surface structures
+1926	structural component
+1926	Surface structures
+1927	structural component
+1927	Surface structures
+1928	transport
+1928	Surface structures
+1929	enzyme
+1929	Surface structures
+1930	structural component
+1930	Surface structures
+1931	structural component
+1931	Surface structures
+1932	putative structure
+1932	Surface structures
+1933	structural component
+1933	Surface structures
+1934	structural component
+1934	Surface structures
+1935	putative structure
+1935	Surface structures
+1936	putative structure
+1936	Surface structures
+1937	putative structure
+1937	Surface structures
+1938	putative enzyme
+1938	Surface structures
+1939	regulator
+1939	Surface polysaccharides & antigens
+1946	putative membrane
+1946	Not classified
+1947	enzyme
+1947	Degradation of DNA
+1948	enzyme
+1948	DNA - replication, repair, restriction/modification
+1953	putative regulator
+1953	Not classified
+1954	putative regulator
+1954	Not classified
+1955	enzyme
+1955	Purine catabolism
+1956	putative enzyme
+1956	Not classified
+1959	putative enzyme
+1959	Not classified
+1961	putative factor
+1961	Not classified
+1963	putative transport
+1963	Not classified
+1964	enzyme
+1964	Salvage of nucleosides and nucleotides
+1967	regulator
+1967	Amino acid biosynthesis: Cysteine
+1968	regulator
+1968	Central intermediary metabolism
+1969	enzyme
+1969	Murein sacculus, peptidoglycan
+1970	enzyme
+1970	Biosynthesis of cofactors, carriers: Cobalamin
+1971	enzyme
+1971	Biosynthesis of cofactors, carriers: Cobalamin
+1972	enzyme
+1972	Biosynthesis of cofactors, carriers: Cobalamin
+1974	IS, phage, Tn
+1974	Transposon-related functions
+1974	extrachromosomal
+1974	transposon related
+1978	IS, phage, Tn
+1978	Transposon-related functions
+1978	extrachromosomal
+1978	transposon related
+1979	IS, phage, Tn
+1979	Transposon-related functions
+1979	extrachromosomal
+1979	transposon related
+1981	membrane
+1981	Outer membrane constituents
+1981	Phage or Prophage Related
+1982	Phage or Prophage Related
+1983	Phage or Prophage Related
+1984	Phage or Prophage Related
+1985	Phage or Prophage Related
+1986	Phage or Prophage Related
+1990	phenotype
+1990	Not classified
+1993	putative enzyme
+1993	Murein sacculus, peptidoglycan
+1994	enzyme
+1994	Degradation of DNA
+1996	putative transport
+1996	Not classified
+1997	transport
+1997	Not classified
+1999	putative regulator
+1999	Not classified
+2000	putative enzyme
+2000	Not classified
+2003	leader
+2003	Amino acid biosynthesis: Histidine
+2004	enzyme
+2004	Amino acid biosynthesis: Histidine
+2005	enzyme
+2005	Amino acid biosynthesis: Histidine
+2006	enzyme
+2006	Amino acid biosynthesis: Histidine
+2007	enzyme
+2007	Amino acid biosynthesis: Histidine
+2008	enzyme
+2008	Amino acid biosynthesis: Histidine
+2009	enzyme
+2009	Amino acid biosynthesis: Histidine
+2010	enzyme
+2010	Amino acid biosynthesis: Histidine
+2011	enzyme
+2011	Amino acid biosynthesis: Histidine
+2012	regulator
+2012	Outer membrane constituents
+2013	enzyme
+2013	Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+2014	enzyme
+2014	Energy metabolism, carbon: Oxidative branch, pentose pathway
+2016	IS, phage, Tn
+2016	Transposon-related functions
+2016	extrachromosomal
+2016	transposon related
+2017	putative enzyme
+2017	Not classified
+2018	putative enzyme
+2018	Not classified
+2019	enzyme
+2019	Lipopolysaccharide biosynthesis
+2020	enzyme
+2020	Macromolecule metabolism: Lipopolysaccharide
+2021	enzyme
+2021	Degradation of small molecules: Carbon compounds
+2022	putative transport
+2022	Surface polysaccharides & antigens
+2023	enzyme
+2023	Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+2024	enzyme
+2024	Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+2025	enzyme
+2025	Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+2026	enzyme
+2026	Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+2027	putative enzyme
+2027	Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+2029	putative enzyme
+2029	Not classified
+2030	putative enzyme
+2030	Not classified
+2031	putative transport
+2031	Protein, peptide secretion
+2032	putative enzyme
+2032	Not classified
+2033	enzyme
+2033	Central intermediary metabolism: Pool, multipurpose conversions
+2034	enzyme
+2034	Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+2035	putative enzyme
+2035	Not classified
+2036	enzyme
+2036	Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+2038	enzyme
+2038	Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+2039	putative enzyme
+2039	Not classified
+2040	putative enzyme
+2040	Not classified
+2041	putative enzyme
+2041	Phage-related functions and prophages
+2042	putative enzyme
+2042	Not classified
+2043	putative enzyme
+2043	Not classified
+2044	putative regulator
+2044	Not classified
+2045	enzyme
+2045	Not classified
+2046	enzyme
+2046	Not classified
+2047	transport
+2047	Not classified
+2048	putative transport
+2048	Not classified
+2049	phenotype
+2049	Outer membrane constituents
+2050	enzyme
+2050	2'-Deoxyribonucleotide metabolism
+2051	enzyme
+2051	Central intermediary metabolism: Nucleotide interconversions
+2052	putative regulator
+2052	Not classified
+2053	enzyme
+2053	DNA - replication, repair, restriction/modification
+2054	putative regulator
+2054	Not classified
+2055	putative enzyme
+2055	Not classified
+2061	putative membrane
+2061	Not classified
+2064	putative transport
+2064	Not classified
+2065	enzyme
+2065	RNA synthesis, modification, DNA transcription
+2066	regulator
+2066	RNA synthesis, modification, DNA transcription
+2069	Phage or Prophage Related
+2074	IS, phage, Tn
+2074	Transposon-related functions
+2074	extrachromosomal
+2074	transposon related
+2075	IS, phage, Tn
+2075	Transposon-related functions
+2075	extrachromosomal
+2075	transposon related
+2076	enzyme
+2076	Degradation of small molecules: Carbon compounds
+2078	enzyme
+2078	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2079	enzyme
+2079	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2080	putative enzyme
+2080	Not classified
+2081	enzyme
+2081	Degradation of small molecules: Carbon compounds
+2083	transport
+2083	Transport of small molecules: Nucleosides, purines, pyrimidines
+2085	putative enzyme
+2085	Not classified
+2086	putative regulator
+2086	Not classified
+2088	enzyme
+2088	Biosynthesis of cofactors, carriers: Thiamine
+2089	enzyme
+2089	Biosynthesis of cofactors, carriers: Thiamine
+2093	putative structural component
+2093	Surface structures
+2094	putative membrane
+2094	Not classified
+2095	putative factor
+2095	Surface structures
+2096	putative structural component
+2096	Surface structures
+2098	putative enzyme
+2098	Not classified
+2099	enzyme
+2099	Aminoacyl tRNA synthetases, tRNA modification
+2101	putative regulator
+2101	Not classified
+2107	enzyme
+2107	Transport of small molecules: Cations
+2110	putative regulator
+2110	Not classified
+2111	regulator
+2111	Not classified
+2113	putative transport
+2113	Not classified
+2114	putative transport
+2114	Not classified
+2115	putative transport
+2115	Not classified
+2116	putative transport
+2116	Not classified
+2117	enzyme
+2117	Degradation of small molecules: Carbon compounds
+2118	enzyme
+2118	Energy metabolism, carbon: Aerobic respiration
+2119	putative enzyme
+2119	Murein sacculus, peptidoglycan
+2122	putative enzyme
+2122	Not classified
+2125	enzyme
+2125	tRNA modification
+2127	putative transport
+2127	Not classified
+2128	enzyme
+2128	Salvage of nucleosides and nucleotides
+2129	transport
+2129	Drug/analog sensitivity
+2131	enzyme
+2131	pyrimidine metabolism
+2132	enzyme
+2132	pyrimidine metabolism
+2133	transport
+2133	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2134	transport
+2134	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2135	transport
+2135	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2136	regulator
+2136	Degradation of small molecules: Carbon compounds
+2138	enzyme
+2138	Biosynthesis of cofactors, carriers: Folic acid
+2139	enzyme
+2139	Formaldehyde degradation
+2140	membrane
+2140	Outer membrane constituents
+2141	transport
+2141	Transport of small molecules: Amino acids, amines
+2142	putative regulator
+2142	Not classified
+2144	enzyme
+2144	Degradation of DNA
+2145	putative enzyme
+2145	Not classified
+2146	putative transport
+2146	Not classified
+2148	putative regulator
+2148	Not classified
+2149	putative transport
+2149	Not classified
+2150	enzyme
+2150	pseudouridine catabolism
+2151	enzyme
+2151	pseudouridine utilization
+2152	regulator
+2152	Degradation of small molecules: Carbon compounds
+2153	enzyme
+2153	Energy metabolism, carbon: Glycolysis
+2154	enzyme
+2154	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2155	orf
+2155	Not classified
+2158	putative enzyme
+2158	Not classified
+2159	enzyme
+2159	Not classified
+2161	enzyme
+2161	Murein sacculus, peptidoglycan
+2164	putative transport
+2164	Not classified
+2165	putative transport
+2165	Not classified
+2166	putative transport
+2166	Not classified
+2168	transport
+2168	Drug/analog sensitivity
+2169	enzyme
+2169	rRNA modification
+2170	putative enzyme
+2170	Not classified
+2171	structural component
+2171	Ribosomal proteins - synthesis, modification
+2174	putative enzyme
+2174	Not classified
+2176	IS, phage, Tn
+2176	Transposon-related functions
+2176	extrachromosomal
+2176	transposon related
+2177	regulator
+2177	Energy metabolism, carbon: Anaerobic respiration
+2178	putative enzyme
+2178	Energy metabolism, carbon: Electron transport
+2179	enzyme
+2179	Energy metabolism, carbon: Electron transport
+2180	putative enzyme
+2180	Energy metabolism, carbon: Electron transport
+2181	putative enzyme
+2181	Energy metabolism, carbon: Electron transport
+2182	transport
+2182	Protein, peptide secretion
+2183	transport
+2183	Protein, peptide secretion
+2184	transport
+2184	Protein, peptide secretion
+2185	transport
+2185	Protein, peptide secretion
+2186	putative enzyme
+2186	Energy metabolism, carbon: Electron transport
+2187	carrier
+2187	Energy metabolism, carbon: Electron transport
+2188	carrier
+2188	Energy metabolism, carbon: Electron transport
+2189	carrier
+2189	Energy metabolism, carbon: Electron transport
+2190	putative enzyme
+2190	Energy metabolism, carbon: Anaerobic respiration
+2192	carrier
+2192	Energy metabolism, carbon: Electron transport
+2193	regulator
+2193	Degradation of proteins, peptides, glyco
+2195	putative transport
+2195	Not classified
+2196	putative enzyme
+2196	DNA - replication, repair, restriction/modification
+2197	enzyme
+2197	DNA - replication, repair, restriction/modification
+2199	membrane
+2199	Outer membrane constituents
+2200	putative regulator
+2200	Not classified
+2201	regulator
+2201	Surface polysaccharides & antigens
+2202	enzyme
+2202	Surface polysaccharides & antigens
+2203	regulator
+2203	Not classified
+2204	regulator
+2204	Degradation of small molecules: Fatty acids
+2205	enzyme
+2205	Degradation of small molecules: Fatty acids
+2206	enzyme
+2206	Degradation of small molecules: Fatty acids
+2207	transport
+2207	Degradation of small molecules: Fatty acids
+2208	enzyme
+2208	Degradation of small molecules: Fatty acids
+2214	enzyme
+2214	DNA - replication, repair, restriction/modification
+2215	enzyme
+2215	Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+2216	putative transport
+2216	Not classified
+2217	enzyme
+2217	2'-Deoxyribonucleotide metabolism
+2218	enzyme
+2218	2'-Deoxyribonucleotide metabolism
+2220	phenotype
+2220	Adaptations, atypical conditions
+2222	enzyme
+2222	Central intermediary metabolism: Pool, multipurpose conversions
+2223	transport
+2223	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2224	enzyme
+2224	Energy metabolism, carbon: Anaerobic respiration
+2225	enzyme
+2225	Energy metabolism, carbon: Anaerobic respiration
+2226	enzyme
+2226	Energy metabolism, carbon: Anaerobic respiration
+2229	enzyme
+2229	Sugar metabolism
+2230	putative transport
+2230	Not classified
+2231	enzyme
+2231	Sugar metabolism
+2232	putative regulator
+2232	Not classified
+2236	phenotype
+2236	Not classified
+2237	putative enzyme
+2237	Not classified
+2238	putative enzyme
+2238	Not classified
+2239	putative enzyme
+2239	Not classified
+2242	transport
+2242	Transport of small molecules: lipids
+2243	transport
+2243	Transport of small molecules: lipids
+2244	putative transport
+2244	Drug/analog sensitivity
+2245	enzyme
+2245	Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+2246	enzyme
+2246	Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+2247	enzyme
+2247	Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+2248	enzyme
+2248	Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+2249	enzyme
+2249	Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+2250	enzyme
+2250	Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+2254	putative enzyme
+2254	Not classified
+2256	putative enzyme
+2256	Not classified
+2261	enzyme
+2261	Energy metabolism, carbon: Aerobic respiration
+2262	enzyme
+2262	Energy metabolism, carbon: Aerobic respiration
+2263	enzyme
+2263	Energy metabolism, carbon: Aerobic respiration
+2264	enzyme
+2264	Energy metabolism, carbon: Aerobic respiration
+2265	enzyme
+2265	Energy metabolism, carbon: Aerobic respiration
+2266	enzyme
+2266	Energy metabolism, carbon: Aerobic respiration
+2267	enzyme
+2267	Energy metabolism, carbon: Aerobic respiration
+2268	enzyme
+2268	Energy metabolism, carbon: Aerobic respiration
+2269	enzyme
+2269	Energy metabolism, carbon: Aerobic respiration
+2270	enzyme
+2270	Energy metabolism, carbon: Aerobic respiration
+2271	enzyme
+2271	Energy metabolism, carbon: Aerobic respiration
+2272	enzyme
+2272	Energy metabolism, carbon: Aerobic respiration
+2273	enzyme
+2273	Energy metabolism, carbon: Aerobic respiration
+2274	regulator
+2274	Energy metabolism, carbon: Aerobic respiration
+2275	enzyme
+2275	Amino acid biosynthesis: Alanine
+2276	phenotype
+2276	Not classified
+2277	putative transport
+2277	Not classified
+2278	putative enzyme
+2278	Not classified
+2281	enzyme
+2281	Energy metabolism, carbon: Electron transport
+2282	enzyme
+2282	Degradation of small molecules: Carbon compounds
+2283	putative enzyme
+2283	Not classified
+2284	putative regulator
+2284	Not classified
+2288	enzyme
+2288	Central intermediary metabolism: Pool, multipurpose conversions
+2289	putative enzyme
+2289	Not classified
+2291	transport
+2291	Transport of small molecules: Amino acids, amines
+2292	transport
+2292	Transport of small molecules: Amino acids, amines
+2293	transport
+2293	Transport of small molecules: Amino acids, amines
+2294	transport
+2294	Transport of small molecules: Amino acids, amines
+2295	transport
+2295	Transport of small molecules: Amino acids, amines
+2296	putative enzyme
+2296	Not classified
+2297	enzyme
+2297	Purine ribonucleotide biosynthesis
+2298	membrane
+2298	Colicin-related functions
+2299	putative membrane
+2299	Not classified
+2300	enzyme
+2300	Biosynthesis of cofactors, carriers: Folic acid
+2301	enzyme
+2301	Fatty acid and phosphatidic acid biosynthesis
+2303	enzyme
+2303	tRNA modification
+2304	putative transport
+2304	Not classified
+2305	enzyme
+2305	Biosynthesis of cofactors, carriers: Pyridoxine
+2306	putative factor
+2306	Surface structures
+2307	putative transport
+2307	Not classified
+2308	enzyme
+2308	Fatty acid and phosphatidic acid biosynthesis
+2309	enzyme
+2309	tRNA modification
+2311	enzyme
+2311	Protein modification
+2312	putative structure
+2312	Not classified
+2313	enzyme
+2313	Murein sacculus, peptidoglycan
+2314	enzyme
+2314	Amino acid biosynthesis: Chorismate
+2315	putative enzyme
+2315	Not classified
+2318	putative structural component
+2318	Surface structures
+2319	putative structural component
+2319	Surface structures
+2320	putative structural component
+2320	Surface structures
+2321	putative factor
+2321	Surface structures
+2323	putative structural component
+2323	Surface structures
+2325	putative enzyme
+2325	Not classified
+2326	putative enzyme
+2326	Not classified
+2328	enzyme
+2328	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2330	transport
+2330	Transport of small molecules: phospholipids
+2330	Macromolecule synthesis, modification: Lipoprotein
+2331	putative transport
+2331	Not classified
+2332	Phage or Prophage Related
+2333	Phage or Prophage Related
+2334	Phage or Prophage Related
+2335	Phage or Prophage Related
+2337	Phage or Prophage Related
+2340	Phage or Prophage Related
+2342	Phage or Prophage Related
+2343	Phage or Prophage Related
+2344	Phage or Prophage Related
+2345	Phage or Prophage Related
+2346	Phage or Prophage Related
+2349	regulator
+2349	Degradation of small molecules: Amino acids
+2350	transport
+2350	Not classified
+2351	enzyme
+2351	Degradation of small molecules: Amino acids
+2352	putative transport
+2352	Drug/analog sensitivity
+2353	putative transport
+2353	Drug/analog sensitivity
+2354	putative regulator
+2354	Not classified
+2355	putative regulator
+2355	Not classified
+2356	putative enzyme
+2356	Not classified
+2357	putative factor
+2357	Not classified
+2358	enzyme
+2358	Oxalate catabolism
+2359	enzyme
+2359	Oxalate catabolism
+2363	enzyme
+2363	Not classified
+2365	enzyme
+2365	Amino acid biosynthesis: Alanine
+2366	putative regulator
+2366	Not classified
+2367	putative regulator
+2367	Not classified
+2368	putative regulator
+2368	Not classified
+2369	putative transport
+2369	Not classified
+2371	putative enzyme
+2371	Not classified
+2372	putative transport
+2372	Not classified
+2373	putative transport
+2373	Not classified
+2374	enzyme
+2374	Degradation of small molecules: Carbon compounds
+2377	putative transport
+2377	Not classified
+2378	transport
+2378	Transport of small molecules: Nucleosides, purines, pyrimidines
+2379	IS, phage, Tn
+2379	Transposon-related functions
+2379	extrachromosomal
+2379	transposon related
+2383	enzyme
+2383	Aminoacyl tRNA synthetases, tRNA modification
+2384	regulator
+2384	Central intermediary metabolism: Nucleotide interconversions
+2385	transport
+2385	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2386	enzyme
+2386	Central intermediary metabolism: Nucleotide interconversions
+2387	putative enzyme
+2387	Not classified
+2388	putative regulator
+2388	Not classified
+2389	putative enzyme
+2389	Not classified
+2391	enzyme
+2391	DNA - replication, repair, restriction/modification
+2392	membrane
+2392	Cell division
+2393	putative transport
+2393	Transport of small molecules: Anions
+2394	enzyme
+2394	Amino acid biosynthesis: Cysteine
+2395	enzyme
+2395	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2396	enzyme
+2396	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2397	enzyme
+2397	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2398	enzyme
+2398	Biosynthesis of cofactors, carriers: Pyridoxine
+2401	enzyme
+2401	Amino acid biosynthesis: Cysteine
+2402	transport
+2402	Transport of small molecules: Anions
+2403	transport
+2403	Transport of small molecules: Anions
+2404	transport
+2404	Transport of small molecules: Anions
+2405	transport
+2405	Transport of small molecules: Anions
+2406	putative enzyme
+2406	Not classified
+2408	putative regulator
+2408	Not classified
+2409	transport
+2409	Murein sacculus, peptidoglycan
+2410	enzyme
+2410	Murein sacculus, peptidoglycan
+2411	enzyme
+2411	Transport of small molecules: Cations
+2415	enzyme
+2415	Murein sacculus, peptidoglycan
+2416	enzyme
+2416	Biosynthesis of cofactors, carriers: Heme, porphyrin
+2417	regulator
+2417	Not classified
+2420	enzyme
+2420	Degradation of small molecules: Amines
+2421	enzyme
+2421	Degradation of small molecules: Amines
+2422	Phage or Prophage Related
+2423	Phage or Prophage Related
+2424	Phage or Prophage Related
+2425	Phage or Prophage Related
+2426	Phage or Prophage Related
+2427	Phage or Prophage Related
+2428	Phage or Prophage Related
+2429	Phage or Prophage Related
+2430	Phage or Prophage Related
+2432	putative transport
+2432	Degradation of small molecules: Amines
+2433	putative enzyme
+2433	Degradation of small molecules: Amines
+2434	putative enzyme
+2434	Degradation of small molecules: Amines
+2435	putative enzyme
+2435	Degradation of small molecules: Amines
+2436	phenotype
+2436	Not classified
+2437	phenotype
+2437	Not classified
+2438	putative enzyme
+2438	Degradation of small molecules: Amines
+2440	putative enzyme
+2440	Not classified
+2443	putative enzyme
+2443	Not classified
+2444	enzyme
+2444	Central intermediary metabolism: Non-oxidative branch, pentose pathway
+2445	enzyme
+2445	Central intermediary metabolism: Non-oxidative branch, pentose pathway
+2448	putative enzyme
+2448	Not classified
+2449	enzyme
+2449	Energy metabolism, carbon: Anaerobic respiration
+2450	putative transport
+2450	Drug/analog sensitivity
+2453	enzyme
+2453	Amino acid biosynthesis: Lysine
+2456	enzyme
+2456	tRNA modification
+2457	putative enzyme
+2457	Not classified
+2458	enzyme
+2458	Purine ribonucleotide biosynthesis
+2459	membrane
+2459	Macromolecule synthesis, modification: Lipoprotein
+2460	enzyme
+2460	Amino acid biosynthesis: Lysine
+2461	regulator
+2461	Central intermediary metabolism: Pool, multipurpose conversions
+2462	phenotype
+2462	Not classified
+2463	enzyme
+2463	Energy metabolism, carbon: Anaerobic respiration
+2464	enzyme
+2464	Energy metabolism, carbon: Anaerobic respiration
+2465	enzyme
+2465	Energy metabolism, carbon: Anaerobic respiration
+2466	enzyme
+2466	Energy metabolism, carbon: Anaerobic respiration
+2467	enzyme
+2467	Energy metabolism, carbon: Anaerobic respiration
+2468	enzyme
+2468	Energy metabolism, carbon: Anaerobic respiration
+2469	enzyme
+2469	Energy metabolism, carbon: Anaerobic respiration
+2470	enzyme
+2470	Energy metabolism, carbon: Anaerobic respiration
+2471	enzyme
+2471	Energy metabolism, carbon: Anaerobic respiration
+2472	putative factor
+2472	Not classified
+2473	putative regulator
+2473	Not classified
+2474	putative transport
+2474	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2475	putative transport
+2475	Not classified
+2477	putative enzyme
+2477	Not classified
+2478	putative factor
+2478	Not classified
+2479	transport
+2479	Transport of small molecules: Nucleosides, purines, pyrimidines
+2480	enzyme
+2480	Salvage of nucleosides and nucleotides
+2481	enzyme
+2481	Purine ribonucleotide biosynthesis
+2482	enzyme
+2482	Purine ribonucleotide biosynthesis
+2483	enzyme
+2483	Central intermediary metabolism: Phosphorus compounds
+2484	enzyme
+2484	Central intermediary metabolism: Phosphorus compounds
+2485	enzyme
+2485	Not classified
+2487	putative membrane
+2487	Not classified
+2489	enzyme
+2489	Purine ribonucleotide biosynthesis
+2490	enzyme
+2490	Purine ribonucleotide biosynthesis
+2491	enzyme
+2491	Degradation of DNA
+2493	putative factor
+2493	Not classified
+2496	enzyme
+2496	Aminoacyl tRNA synthetases, tRNA modification
+2498	putative membrane
+2498	Not classified
+2499	enzyme
+2499	rRNA modification
+2500	enzyme
+2500	Purine ribonucleotide biosynthesis
+2501	enzyme
+2501	Murein sacculus, peptidoglycan
+2503	putative enzyme
+2503	Not classified
+2504	phenotype
+2504	Not classified
+2505	putative enzyme
+2505	Not classified
+2507	carrier
+2507	Energy metabolism, carbon: Electron transport
+2508	factor
+2508	Chaperones
+2509	factor
+2509	Chaperones
+2510	putative regulator
+2510	Not classified
+2512	enzyme
+2512	tRNA modification
+2513	regulation of Fe-S cluster assembly genes
+2514	enzyme
+2514	tRNA modification
+2515	phenotype
+2515	Global regulatory functions
+2516	putative enzyme
+2516	Not classified
+2518	transport
+2518	Degradation of small molecules: Carbon compounds
+2519	regulator
+2519	Degradation of small molecules: Carbon compounds
+2521	enzyme
+2521	Degradation of small molecules: Carbon compounds
+2522	enzyme
+2522	Degradation of small molecules: Carbon compounds
+2523	enzyme
+2523	Degradation of small molecules: Carbon compounds
+2524	enzyme
+2524	Degradation of small molecules: Carbon compounds
+2525	enzyme
+2525	Degradation of small molecules: Carbon compounds
+2528	putative enzyme
+2528	Not classified
+2529	putative transport
+2529	Not classified
+2530	putative transport
+2530	Not classified
+2531	putative regulator
+2531	Not classified
+2533	putative regulator
+2533	Not classified
+2534	enzyme
+2534	Amino acid biosynthesis: Glycine
+2535	enzyme
+2535	Energy metabolism, carbon: Electron transport
+2536	regulator
+2536	Amino acid biosynthesis: Glutamine
+2537	putative regulator
+2537	Not classified
+2538	phenotype
+2538	Not classified
+2539	putative regulator
+2539	Not classified
+2540	enzyme
+2540	Purine ribonucleotide biosynthesis
+2541	enzyme
+2541	Transporter
+2541	Not classified
+2542	enzyme
+2542	tRNA modification
+2543	enzyme
+2543	Macromolecule synthesis, modification: Phospholipids
+2547	enzyme
+2547	Fatty acid and phosphatidic acid biosynthesis
+2548	enzyme
+2548	Biosynthesis of cofactors, carriers: Pyridoxine
+2549	regulator
+2549	DNA - replication, repair, restriction/modification
+2550	factor
+2550	Global regulatory functions
+2551	enzyme
+2551	Degradation of RNA
+2552	enzyme
+2552	Protein, peptide secretion
+2553	factor
+2553	Proteins - translation and modification
+2554	regulator
+2554	Global regulatory functions
+2555	regulator
+2555	Global regulatory functions
+2556	regulator
+2556	Global regulatory functions
+2557	regulator
+2557	Global regulatory functions
+2558	enzyme
+2558	Biosynthesis of cofactors, carriers: Pyridine nucleotide
+2559	enzyme
+2559	tRNA modification
+2560	enzyme
+2560	RNA synthesis, modification, DNA transcription
+2561	putative regulator
+2561	Not classified
+2563	putative enzyme
+2563	Energy metabolism, carbon: Anaerobic respiration
+2564	enzyme
+2564	DNA - replication, repair, restriction/modification
+2566	putative enzyme
+2566	Not classified
+2568	enzyme
+2568	Proteins - translation and modification
+2569	enzyme
+2569	Macromolecule synthesis, modification: Phospholipids
+2571	transport
+2571	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2572	putative enzyme
+2572	Degradation of proteins, peptides, glyco
+2574	enzyme
+2574	rRNA modification
+2576	putative regulator
+2576	Not classified
+2577	leader
+2577	Amino acid biosynthesis: Phenylalanine
+2578	enzyme
+2578	Amino acid biosynthesis: Phenylalanine
+2579	enzyme
+2579	Amino acid biosynthesis: Tyrosine
+2580	enzyme
+2580	Amino acid biosynthesis: Tyrosine
+2584	putative membrane
+2584	Not classified
+2585	structural component
+2585	Ribosomal proteins - synthesis, modification
+2586	enzyme
+2586	tRNA modification
+2587	enzyme
+2587	rRNA processing
+2588	structural component
+2588	Ribosomal proteins - synthesis, modification
+2589	transport
+2589	Protein, peptide secretion
+2592	IS, phage, Tn
+2592	Phage-related functions and prophages
+2594	putative enzyme
+2594	DNA - replication, repair, restriction/modification
+2599	Phage or Prophage Related
+2600	Phage or Prophage Related
+2601	IS, phage, Tn
+2601	Phage or Prophage Related
+2602	Phage or Prophage Related
+2603	Phage or Prophage Related
+2604	Phage or Prophage Related
+2605	Phage or Prophage Related
+2606	Phage or Prophage Related
+2607	Phage or Prophage Related
+2608	Phage or Prophage Related
+2609	Phage or Prophage Related
+2610	Phage or Prophage Related
+2611	Phage or Prophage Related
+2612	Phage or Prophage Related
+2613	Phage or Prophage Related
+2614	Phage or Prophage Related
+2617	Phage or Prophage Related
+2619	Phage or Prophage Related
+2620	Phage or Prophage Related
+2622	Phage or Prophage Related
+2623	Phage or Prophage Related
+2624	putative transport
+2624	Not classified
+2630	enzyme
+2630	Central intermediary metabolism: Pool, multipurpose conversions
+2631	enzyme
+2631	Central intermediary metabolism: Pool, multipurpose conversions
+2632	transport
+2632	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2633	regulator
+2633	Not classified
+2638	regulator
+2638	Basic proteins - synthesis, modification
+2642	enzyme
+2642	Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+2643	enzyme
+2643	Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+2644	enzyme
+2644	Central intermediary metabolism: Nucleotide interconversions
+2645	enzyme
+2645	Central intermediary metabolism: Nucleotide interconversions
+2646	transport
+2646	Transport of small molecules: Amino acids, amines
+2647	transport
+2647	Transport of small molecules: Amino acids, amines
+2648	transport
+2648	Osmotic adaptation
+2652	regulator
+2652	Plasmid-related functions
+2653	transport
+2653	Drug/analog sensitivity
+2654	putative transport
+2654	Drug/analog sensitivity
+2656	enzyme
+2656	Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+2658	putative enzyme
+2658	Not classified
+2659	regulator
+2659	Global regulatory functions
+2660	enzyme
+2660	Aminoacyl tRNA synthetases, tRNA modification
+2661	putative regulator
+2661	Not classified
+2662	enzyme
+2662	DNA - replication, repair, restriction/modification
+2663	enzyme
+2663	NMN catabolism
+2664	enzyme
+2664	Murein sacculus, peptidoglycan
+2665	transport
+2665	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2666	transport
+2666	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2667	enzyme
+2667	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2668	enzyme
+2668	Degradation of small molecules: Carbon compounds
+2669	regulator
+2669	Degradation of small molecules: Carbon compounds
+2670	regulator
+2670	Degradation of small molecules: Carbon compounds
+2672	regulator
+2672	Not classified
+2673	putative enzyme
+2673	Not classified
+2674	putative enzyme
+2674	Not classified
+2675	regulator
+2675	Energy metabolism, carbon: Anaerobic respiration
+2676	enzyme
+2676	Energy metabolism, carbon: Anaerobic respiration
+2677	regulator
+2677	Degradation of small molecules: Carbon compounds
+2678	enzyme
+2678	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2679	enzyme
+2679	Degradation of small molecules: Carbon compounds
+2680	enzyme
+2680	Degradation of proteins, peptides, glyco
+2681	factor
+2681	Energy metabolism, carbon: Fermentation
+2682	phenotype
+2682	Energy metabolism, carbon: Fermentation
+2683	putative enzyme
+2683	Energy metabolism, carbon: Fermentation
+2684	enzyme
+2684	Energy metabolism, carbon: Fermentation
+2685	enzyme
+2685	Energy metabolism, carbon: Fermentation
+2686	enzyme
+2686	Energy metabolism, carbon: Fermentation
+2687	putative enzyme
+2687	Energy metabolism, carbon: Fermentation
+2688	regulator
+2688	Energy metabolism, carbon: Fermentation
+2689	phenotype
+2689	Energy metabolism, carbon: Anaerobic respiration
+2690	phenotype
+2690	Energy metabolism, carbon: Fermentation
+2691	phenotype
+2691	Energy metabolism, carbon: Anaerobic respiration
+2692	phenotype
+2692	Energy metabolism, carbon: Anaerobic respiration
+2693	factor
+2693	Energy metabolism, carbon: Anaerobic respiration
+2694	regulator
+2694	Energy metabolism, carbon: Fermentation
+2696	enzyme
+2696	DNA - replication, repair, restriction/modification
+2697	enzyme
+2697	Not classified
+2698	putative regulator
+2698	Not classified
+2699	putative enzyme
+2699	Not classified
+2701	putative enzyme
+2701	Not classified
+2703	putative transport
+2703	Not classified
+2704	enzyme
+2704	Global regulatory functions
+2705	enzyme
+2705	Murein sacculus, peptidoglycan
+2705	membrane
+2705	Macromolecule synthesis, modification: Lipoprotein
+2706	enzyme
+2706	Proteins - translation and modification
+2707	phenotype
+2707	Not classified
+2708	enzyme
+2708	tRNA modification
+2712	putative enzyme
+2712	Not classified
+2713	enzyme
+2713	Central intermediary metabolism: Sulfur metabolism
+2714	enzyme
+2714	Central intermediary metabolism: Sulfur metabolism
+2715	enzyme
+2715	Central intermediary metabolism: Sulfur metabolism
+2716	enzyme
+2716	Proteins - translation and modification
+2725	enzyme
+2725	Central intermediary metabolism: Sulfur metabolism
+2726	enzyme
+2726	Central intermediary metabolism: Sulfur metabolism
+2727	enzyme
+2727	Central intermediary metabolism: Sulfur metabolism
+2728	putative enzyme
+2728	Not classified
+2729	putative enzyme
+2729	Not classified
+2731	putative regulator
+2731	Not classified
+2732	putative enzyme
+2732	Not classified
+2733	putative transport
+2733	Not classified
+2734	putative transport
+2734	Not classified
+2736	putative enzyme
+2736	Not classified
+2737	putative transport
+2737	Not classified
+2738	putative enzyme
+2738	Not classified
+2739	enzyme
+2739	cofactor biosynthesis
+2742	enzyme
+2742	Energy metabolism, carbon: Glycolysis
+2743	enzyme
+2743	Central intermediary metabolism: Nucleotide interconversions
+2745	putative factor
+2745	Not classified
+2746	phenotype
+2746	Not classified
+2747	enzyme
+2747	Global regulatory functions
+2748	enzyme
+2748	rRNA modification
+2749	enzyme
+2749	Global regulatory functions
+2751	putative enzyme
+2751	Not classified
+2754	enzyme
+2754	tRNA modification
+2757	enzyme
+2757	Queuosine biosynthesis
+2759	putative transport
+2759	Transport of small molecules: Amino acids, amines
+2760	enzyme
+2760	Degradation of small molecules: Amino acids
+2762	enzyme
+2762	Degradation of small molecules: Carbon compounds
+2763	enzyme
+2763	Degradation of small molecules: Carbon compounds
+2764	transport
+2764	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2765	enzyme
+2765	Degradation of small molecules: Carbon compounds
+2766	enzyme
+2766	Degradation of small molecules: Carbon compounds
+2767	phenotype
+2767	Degradation of small molecules: Carbon compounds
+2768	regulator
+2768	Degradation of small molecules: Carbon compounds
+2769	enzyme
+2769	rRNA modification
+2771	regulator
+2771	Central intermediary metabolism: Pool, multipurpose conversions
+2775	putative enzyme
+2775	Not classified
+2776	enzyme
+2776	Murein sacculus, peptidoglycan
+2777	putative enzyme
+2777	Not classified
+2778	enzyme
+2778	Amino acid biosynthesis: Arginine
+2779	enzyme
+2779	Degradation of DNA
+2780	enzyme
+2780	Degradation of DNA
+2781	enzyme
+2781	Degradation of proteins, peptides, glyco
+2782	enzyme
+2782	Degradation of DNA
+2783	putative structural component
+2783	Surface structures
+2785	putative structural component
+2785	Surface structures
+2786	putative structural component
+2786	Surface structures
+2787	enzyme
+2787	2'-Deoxyribonucleotide metabolism
+2788	enzyme
+2788	Macromolecule synthesis, modification: Phospholipids
+2789	enzyme
+2789	Transport of small molecules: Other
+2790	putative factor
+2790	Not classified
+2791	enzyme
+2791	DNA - replication, repair, restriction/modification
+2792	putative transport
+2792	Not classified
+2794	putative enzyme
+2794	Not classified
+2795	orf
+2795	Drug/analog sensitivity
+2796	enzyme
+2796	Fatty acid and phosphatidic acid biosynthesis
+2797	regulator
+2797	Degradation of small molecules: Carbon compounds
+2798	enzyme
+2798	Amino acid biosynthesis: Lysine
+2799	regulator
+2799	Amino acid biosynthesis: Lysine
+2800	putative transport
+2800	Drug/analog sensitivity
+2801	transport
+2801	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2802	enzyme
+2802	Degradation of small molecules: Carbon compounds
+2803	enzyme
+2803	Degradation of small molecules: Carbon compounds
+2804	enzyme
+2804	Not classified
+2805	putative transport
+2805	Not classified
+2807	putative transport
+2807	Not classified
+2813	putative factor
+2813	Not classified
+2819	IS, phage, Tn
+2819	Transposon-related functions
+2819	extrachromosomal
+2819	transposon related
+2820	IS, phage, Tn
+2820	Transposon-related functions
+2820	extrachromosomal
+2820	transposon related
+2822	putative structure
+2822	Not classified
+2824	putative enzyme
+2824	Not classified
+2825	putative enzyme
+2825	Not classified
+2826	putative regulator
+2826	Not classified
+2827	putative enzyme
+2827	Not classified
+2828	enzyme
+2828	Not classified
+2829	putative enzyme
+2829	Not classified
+2831	putative enzyme
+2831	Not classified
+2832	putative enzyme
+2832	Not classified
+2835	putative enzyme
+2835	Not classified
+2836	putative structure
+2836	Not classified
+2838	putative enzyme
+2838	Not classified
+2839	transport
+2839	Transport of small molecules: Nucleosides, purines, pyrimidines
+2841	transport
+2841	Transport of small molecules: Nucleosides, purines, pyrimidines
+2842	putative enzyme
+2842	Not classified
+2843	putative enzyme
+2843	Not classified
+2844	transport
+2844	Transport of small molecules: Nucleosides, purines, pyrimidines
+2846	putative enzyme
+2846	Not classified
+2847	enzyme
+2847	Aminoacyl tRNA synthetases, tRNA modification
+2848	factor
+2848	Proteins - translation and modification
+2849	enzyme
+2849	Degradation of DNA
+2850	enzyme
+2850	Surface structures
+2851	enzyme
+2851	DNA - replication, repair, restriction/modification
+2852	enzyme
+2852	Energy metabolism, carbon: Aerobic respiration
+2854	factor
+2854	Energy metabolism, carbon: TCA cycle
+2856	putative enzyme
+2856	Not classified
+2858	enzyme
+2858	Degradation of small molecules: Carbon compounds
+2859	putative enzyme
+2859	Not classified
+2860	enzyme
+2860	Central intermediary metabolism: Pool, multipurpose conversions
+2861	carrier
+2861	Central intermediary metabolism: Pool, multipurpose conversions
+2862	enzyme
+2862	Central intermediary metabolism: Pool, multipurpose conversions
+2863	enzyme
+2863	Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+2864	enzyme
+2864	Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+2865	enzyme
+2865	Degradation of proteins, peptides, glyco
+2868	putative enzyme
+2868	Not classified
+2870	enzyme
+2870	Amino acid biosynthesis: Serine
+2871	enzyme
+2871	Central intermediary metabolism: Non-oxidative branch, pentose pathway
+2873	regulator
+2873	DNA - replication, repair, restriction/modification
+2874	enzyme
+2874	Degradation of small molecules: Fatty acids
+2875	phenotype
+2875	Not classified
+2876	enzyme
+2876	Not classified
+2877	enzyme
+2877	Not classified
+2878	putative regulator
+2878	Not classified
+2879	phenotype
+2879	Not classified
+2881	transport
+2881	Transport of small molecules: Other
+2882	enzyme
+2882	Energy metabolism, carbon: Glycolysis
+2883	enzyme
+2883	Energy metabolism, carbon: Glycolysis
+2884	enzyme
+2884	Central intermediary metabolism
+2885	putative enzyme
+2885	Not classified
+2886	putative regulator
+2886	Not classified
+2889	enzyme
+2889	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2890	transport
+2890	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2891	enzyme
+2891	Central intermediary metabolism: Non-oxidative branch, pentose pathway
+2892	enzyme
+2892	Degradation of proteins, peptides, glycopeptides
+2893	enzyme
+2893	Central intermediary metabolism: Polyamine biosynthesis
+2894	enzyme
+2894	Central intermediary metabolism: Polyamine biosynthesis
+2897	enzyme
+2897	Central intermediary metabolism: Pool, multipurpose conversions
+2898	transport
+2898	Transport of small molecules: Carbohydrates, organic acids, alcohols
+2900	enzyme
+2900	Degradation of DNA
+2901	enzyme
+2901	rRNA modification
+2902	enzyme
+2902	Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+2905	putative transport
+2905	Not classified
+2906	putative enzyme
+2906	Not classified
+2909	enzyme
+2909	Not classified
+2910	putative enzyme
+2910	Not classified
+2911	phenotype
+2911	Not classified
+2912	enzyme
+2912	Degradation of small molecules: Amino acids
+2915	enzyme
+2915	tRNA modification
+2916	enzyme
+2916	DNA - replication, repair, restriction/modification
+2918	putative enzyme
+2918	Murein sacculus, peptidoglycan
+2919	transport
+2919	Transport of small molecules: Nucleosides, purines, pyrimidines
+2920	enzyme
+2920	Central intermediary metabolism: Polyamine biosynthesis
+2921	putative transport
+2921	Not classified
+2922	putative transport
+2922	Not classified
+2926	putative enzyme
+2926	Not classified
+2928	putative transport
+2928	Not classified
+2929	enzyme
+2929	Central intermediary metabolism: Glyoxylate bypass
+2931	enzyme
+2931	Central intermediary metabolism: Pool, multipurpose conversions
+2932	enzyme
+2932	Central intermediary metabolism: Pool, multipurpose conversions
+2933	enzyme
+2933	Degradation of small molecules: Carbon compounds
+2934	regulator
+2934	Degradation of small molecules: Carbon compounds
+2936	IS, phage, Tn
+2936	Transposon-related functions
+2936	extrachromosomal
+2936	transposon related
+2941	transport
+2941	Transport of small molecules: Anions
+2942	enzyme
+2942	Central intermediary metabolism: Polyamine biosynthesis
+2944	phenotype
+2944	Energy metabolism, carbon: Anaerobic respiration
+2945	regulator
+2945	Energy metabolism, carbon: Anaerobic respiration
+2946	phenotype
+2946	Energy metabolism, carbon: Anaerobic respiration
+2947	putative enzyme
+2947	Energy metabolism, carbon: Anaerobic respiration
+2948	putative enzyme
+2948	Energy metabolism, carbon: Anaerobic respiration
+2949	putative enzyme
+2949	Energy metabolism, carbon: Anaerobic respiration
+2950	enzyme
+2950	Energy metabolism, carbon: Anaerobic respiration
+2951	putative enzyme
+2951	Not classified
+2956	putative enzyme
+2956	Not classified
+2957	transport
+2957	Transport of small molecules: Cations
+2958	transport
+2958	Transport of small molecules: Cations
+2959	enzyme
+2959	Amino acid biosynthesis: Methionine
+2960	membrane
+2960	inner membrane
+2960	cell division
+2961	regulator
+2961	Not classified
+2962	enzyme
+2962	Degradation of small molecules: Carbon compounds
+2967	phenotype
+2967	Not classified
+2968	enzyme
+2968	Macromolecule synthesis, modification: Phospholipids
+2969	enzyme
+2969	DNA - replication, repair, restriction/modification
+2970	putative transport
+2970	Not classified
+2978	phenotype
+2978	Not classified
+2980	enzyme
+2980	DNA - replication, repair, restriction/modification
+2982	regulator
+2982	Degradation of small molecules: Carbon compounds
+2985	putative membrane
+2985	Cell division
+2987	putative enzyme
+2987	Not classified
+2990	enzyme
+2990	Biosynthesis of cofactors, carriers: Riboflavin
+2992	putative structural component
+2992	Surface structures
+2994	IS, phage, Tn
+2994	Transposon-related functions
+2994	extrachromosomal
+2994	transposon related
+2995	IS, phage, Tn
+2995	Transposon-related functions
+2995	extrachromosomal
+2995	transposon related
+2996	putative factor
+2996	Surface structures
+2997	structural component
+2997	Surface structures
+2998	putative enzyme
+2998	Macromolecule synthesis, modification: Polysaccharides - (cytoplasmic)
+2999	putative enzyme
+2999	Not classified
+3000	putative membrane
+3000	Not classified
+3003	putative enzyme
+3003	Not classified
+3004	enzyme
+3004	Proteins - translation and modification
+3007	enzyme
+3007	Aminoacyl tRNA synthetases, tRNA modification
+3008	putative transport
+3008	Drug/analog sensitivity
+3009	putative enzyme
+3009	Not classified
+3011	putative regulator
+3011	Not classified
+3012	enzyme
+3012	Energy metabolism, carbon: Fermentation
+3013	enzyme
+3013	Energy metabolism, carbon: Fermentation
+3015	enzyme
+3015	tRNA modification
+3016	structural component
+3016	Ribosomal proteins - synthesis, modification
+3017	enzyme
+3017	DNA - replication, repair, restriction/modification
+3018	factor
+3018	Global regulatory functions
+3022	regulator
+3022	Degradation of small molecules: Carbon compounds
+3023	putative enzyme
+3023	Amino acid biosynthesis: Arginine
+3024	putative enzyme
+3024	Not classified
+3025	regulator
+3025	Degradation of small molecules: Carbon compounds
+3026	enzyme
+3026	Degradation of small molecules: Carbon compounds
+3027	enzyme
+3027	Degradation of small molecules: Carbon compounds
+3028	orf
+3028	Not classified
+3030	enzyme
+3030	Not classified
+3031	orf
+3031	Not classified
+3034	enzyme
+3034	rRNA modification
+3038	putative transport
+3038	Not classified
+3039	putative transport
+3039	Not classified
+3041	enzyme
+3041	Degradation of small molecules: Carbon compounds
+3042	enzyme
+3042	Degradation of small molecules: Carbon compounds
+3043	transport
+3043	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3044	regulator
+3044	Degradation of small molecules: Carbon compounds
+3045	membrane
+3045	inner membrane
+3045	cell division
+3052	putative enzyme
+3052	Not classified
+3053	putative carrier
+3053	Not classified
+3054	putative carrier
+3054	Not classified
+3055	putative regulator
+3055	Not classified
+3059	putative transport
+3059	Not classified
+3061	putative enzyme
+3061	Not classified
+3062	putative enzyme
+3062	Energy metabolism, carbon: Anaerobic respiration
+3063	putative enzyme
+3063	Not classified
+3064	transport
+3064	Transport of small molecules: Amino acids, amines
+3065	enzyme
+3065	Degradation of small molecules: Amino acids
+3066	regulator
+3066	Degradation of small molecules: Amino acids
+3067	regulator
+3067	Degradation of small molecules: Amino acids
+3075	putative enzyme
+3075	Not classified
+3077	regulator
+3077	Not classified
+3078	putative enzyme
+3078	Not classified
+3079	enzyme
+3079	Central intermediary metabolism: Amino sugars
+3082	putative enzyme
+3082	Not classified
+3083	enzyme
+3083	Central intermediary metabolism: Pool, multipurpose conversions
+3084	enzyme
+3084	Central intermediary metabolism: Amino sugars
+3085	enzyme
+3085	Central intermediary metabolism: Amino sugars
+3086	enzyme
+3086	Central intermediary metabolism: Amino sugars
+3087	putative enzyme
+3087	Not classified
+3088	putative structural component
+3088	Surface structures
+3089	putative factor
+3089	Surface structures
+3090	putative membrane
+3090	Not classified
+3091	putative structural component
+3091	Surface structures
+3092	enzyme
+3092	rRNA modification
+3093	factor
+3093	Not classified
+3096	putative transport
+3096	Not classified
+3104	orf
+3104	Not classified
+3106	putative enzyme
+3106	Not classified
+3107	transport
+3107	Transport of small molecules: Amino acids, amines
+3108	enzyme
+3108	RNA synthesis, modification, DNA transcription
+3110	putative regulator
+3110	Not classified
+3111	enzyme
+3111	RNA synthesis, modification, DNA transcription
+3112	structural component
+3112	Ribosomal proteins - synthesis, modification
+3113	enzyme
+3113	tRNA modification
+3114	factor
+3114	Proteins - translation and modification
+3115	factor
+3115	Proteins - translation and modification
+3116	factor
+3116	RNA synthesis, modification, DNA transcription
+3118	enzyme
+3118	Amino acid biosynthesis: Arginine
+3119	putative enzyme
+3119	Not classified
+3120	transport
+3120	Protein, peptide secretion
+3121	putative enzyme
+3121	Central intermediary metabolism: Miscellaneous glucose metabolism
+3122	enzyme
+3122	Biosynthesis of cofactors, carriers: Folic acid
+3123	enzyme
+3123	Degradation of proteins, peptides, glyco
+3124	enzyme
+3124	rRNA modification
+3124	phenotype
+3124	Cell division
+3126	regulator
+3126	Proteins - translation and modification
+3127	enzyme
+3127	Murein sacculus, peptidoglycan
+3128	putative factor
+3128	Not classified
+3130	structural component
+3130	Ribosomal proteins - synthesis, modification
+3131	structural component
+3131	Ribosomal proteins - synthesis, modification
+3132	enzyme
+3132	Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+3133	regulator
+3133	Degradation of small molecules: Carbon compounds
+3134	enzyme
+3134	Murein sacculus, peptidoglycan
+3136	transport
+3136	Transport of small molecules: phospholipids
+3137	transport
+3137	Transport of small molecules: phospholipids
+3138	transport
+3138	Transport of small molecules: phospholipids
+3139	transport
+3139	Transport of small molecules: phospholipids
+3140	transport
+3140	Transport of small molecules: phospholipids
+3142	putative enzyme
+3142	Not classified
+3145	lipopolysaccharide biosynthesis
+3146	putative transport
+3146	Not classified
+3147	regulator
+3147	Global regulatory functions
+3148	putative regulator
+3148	Global regulatory functions
+3149	enzyme
+3149	Transport of small molecules: Amino acids, amines
+3151	transport
+3151	Transport of small molecules: Other
+3153	putative enzyme
+3153	Not classified
+3154	putative factor
+3154	Not classified
+3155	enzyme
+3155	Global regulatory functions
+3157	enzyme
+3157	Central intermediary metabolism: Pool, multipurpose conversions
+3158	enzyme
+3158	Central intermediary metabolism: Pool, multipurpose conversions
+3159	regulator
+3159	Central intermediary metabolism: Pool, multipurpose conversions
+3160	putative factor
+3160	Not classified
+3161	putative membrane
+3161	Not classified
+3163	IS, phage, Tn
+3163	Transposon-related functions
+3163	extrachromosomal
+3163	transposon related
+3164	putative regulator
+3164	Not classified
+3166	putative enzyme
+3166	Not classified
+3167	putative regulator
+3167	Not classified
+3168	putative enzyme
+3168	Not classified
+3169	transport
+3169	Murein sacculus, peptidoglycan
+3170	enzyme
+3170	Surface polysaccharides & antigens
+3171	regulator
+3171	Not classified
+3172	putative transport
+3172	Not classified
+3173	regulator
+3173	Global regulatory functions
+3174	regulator
+3174	Global regulatory functions
+3175	structural component
+3175	Ribosomal proteins - synthesis, modification
+3176	structural component
+3176	Ribosomal proteins - synthesis, modification
+3177	enzyme
+3177	Not classified
+3179	enzyme
+3179	Degradation of proteins, peptides, glycopeptides
+3180	enzyme
+3180	Degradation of proteins, peptides, glyco
+3181	enzyme
+3181	Energy metabolism, carbon: TCA cycle
+3182	regulator
+3182	Amino acid biosynthesis: Arginine
+3189	phenotype
+3189	Not classified
+3191	structural component
+3191	Cell division
+3193	structural component
+3193	Murein sacculus, peptidoglycan
+3194	structural component
+3194	Murein sacculus, peptidoglycan
+3195	phenotype
+3195	Cell division
+3197	putative enzyme
+3197	Not classified
+3200	carrier
+3200	Biosynthesis of cofactors, carriers: biotin carboxyl carrier protein (BCCP)
+3201	enzyme
+3201	Fatty acid and phosphatidic acid biosynthesis
+3203	transport
+3203	Transport of small molecules: Cations
+3204	enzyme
+3204	Ribosomal proteins - synthesis, modification
+3205	enzyme
+3205	tRNA modification
+3206	factor
+3206	DNA - replication, repair, restriction/modification
+3207	putative enzyme
+3207	Not classified
+3209	regulator
+3209	Not classified
+3210	membrane
+3210	Inner membrane
+3211	membrane
+3211	Drug/analog sensitivity
+3214	putative transport
+3214	Not classified
+3215	putative transport
+3215	Not classified
+3216	putative transport
+3216	Not classified
+3217	putative enzyme
+3217	Not classified
+3219	enzyme
+3219	Amino acid biosynthesis: Chorismate
+3220	enzyme
+3220	tRNA modification
+3221	putative enzyme
+3221	Not classified
+3224	enzyme
+3224	Proteins - translation and modification
+3225	enzyme
+3225	Aminoacyl tRNA synthetases, tRNA modification
+3226	enzyme
+3226	rRNA modification
+3227	transport
+3227	Transport of small molecules: Cations
+3228	transport
+3228	Transport of small molecules: Other
+3230	putative regulator
+3230	Not classified
+3232	structural component
+3232	Ribosomal proteins - synthesis, modification
+3233	enzyme
+3233	RNA synthesis, modification, DNA transcription
+3234	structural component
+3234	Ribosomal proteins - synthesis, modification
+3235	structural component
+3235	Ribosomal proteins - synthesis, modification
+3236	structural component
+3236	Ribosomal proteins - synthesis, modification
+3237	structural component
+3237	Ribosomal proteins - synthesis, modification
+3238	putative transport
+3238	Not classified
+3239	structural component
+3239	Ribosomal proteins - synthesis, modification
+3240	structural component
+3240	Ribosomal proteins - synthesis, modification
+3241	structural component
+3241	Ribosomal proteins - synthesis, modification
+3242	structural component
+3242	Ribosomal proteins - synthesis, modification
+3243	structural component
+3243	Ribosomal proteins - synthesis, modification
+3244	structural component
+3244	Ribosomal proteins - synthesis, modification
+3245	structural component
+3245	Ribosomal proteins - synthesis, modification
+3246	structural component
+3246	Ribosomal proteins - synthesis, modification
+3247	structural component
+3247	Ribosomal proteins - synthesis, modification
+3248	structural component
+3248	Ribosomal proteins - synthesis, modification
+3249	structural component
+3249	Ribosomal proteins - synthesis, modification
+3250	structural component
+3250	Ribosomal proteins - synthesis, modification
+3251	structural component
+3251	Ribosomal proteins - synthesis, modification
+3252	structural component
+3252	Ribosomal proteins - synthesis, modification
+3253	structural component
+3253	Ribosomal proteins - synthesis, modification
+3254	structural component
+3254	Ribosomal proteins - synthesis, modification
+3255	structural component
+3255	Ribosomal proteins - synthesis, modification
+3256	structural component
+3256	Ribosomal proteins - synthesis, modification
+3257	structural component
+3257	Ribosomal proteins - synthesis, modification
+3258	structural component
+3258	Ribosomal proteins - synthesis, modification
+3259	structural component
+3259	Ribosomal proteins - synthesis, modification
+3260	factor
+3260	DNA - replication, repair, restriction/modification
+3261	putative transport
+3261	Not classified
+3262	putative transport
+3262	Not classified
+3263	putative transport
+3263	Not classified
+3264	putative transport
+3264	Not classified
+3265	putative transport
+3265	Not classified
+3266	putative transport
+3266	Not classified
+3267	putative transport
+3267	Not classified
+3268	putative transport
+3268	Not classified
+3269	putative transport
+3269	Not classified
+3270	putative transport
+3270	Not classified
+3271	putative transport
+3271	Not classified
+3272	putative transport
+3272	Not classified
+3273	enzyme
+3273	Degradation of proteins, peptides, glyco
+3274	carrier
+3274	Transport of small molecules: Cations
+3276	putative enzyme
+3276	Not classified
+3277	factor
+3277	Proteins - translation and modification
+3278	factor
+3278	Proteins - translation and modification
+3279	structural component
+3279	Ribosomal proteins - synthesis, modification
+3280	structural component
+3280	Ribosomal proteins - synthesis, modification
+3285	enzyme
+3285	Proteins - translation and modification
+3287	enzyme
+3287	Proteins - translation and modification
+3289	transport
+3289	Transport of small molecules: Cations
+3290	putative enzyme
+3290	Not classified
+3291	putative transport
+3291	Not classified
+3294	putative enzyme
+3294	Central intermediary metabolism: Miscellaneous glucose metabolism
+3296	regulator
+3296	Global regulatory functions
+3298	enzyme
+3298	Amino acid biosynthesis: Arginine
+3299	enzyme
+3299	Biosynthesis of cofactors, carriers: Folic acid
+3302	enzyme
+3302	Proteins - translation and modification
+3303	putative transport
+3303	Not classified
+3304	enzyme
+3304	Energy metabolism, carbon: Anaerobic respiration
+3305	enzyme
+3305	Energy metabolism, carbon: Anaerobic respiration
+3306	enzyme
+3306	Energy metabolism, carbon: Anaerobic respiration
+3307	enzyme
+3307	Biosynthesis of cofactors, carriers: Heme, porphyrin
+3309	putative transport
+3309	Not classified
+3310	putative transport
+3310	Not classified
+3312	putative enzyme
+3312	Not classified
+3313	putative regulator
+3313	Not classified
+3314	putative enzyme
+3314	Not classified
+3315	putative transport
+3315	Not classified
+3317	putative enzyme
+3317	Not classified
+3318	putative enzyme
+3318	Not classified
+3322	enzyme
+3322	Aminoacyl tRNA synthetases, tRNA modification
+3323	enzyme
+3323	Degradation of small molecules: Carbon compounds
+3324	enzyme
+3324	Central intermediary metabolism: Non-oxidative branch, pentose pathway
+3325	enzyme
+3325	DNA - replication, repair, restriction/modification
+3326	putative membrane
+3326	Cell division
+3327	enzyme
+3327	Amino acid biosynthesis: Chorismate
+3328	enzyme
+3328	Amino acid biosynthesis: Chorismate
+3329	putative transport
+3329	Not classified
+3334	enzyme
+3334	Murein sacculus, peptidoglycan
+3336	putative factor
+3336	Not classified
+3337	putative enzyme
+3337	Not classified
+3340	putative transport
+3340	Not classified
+3341	enzyme
+3341	Central intermediary metabolism: Gluconeogenesis
+3342	enzyme
+3342	Global regulatory functions
+3343	regulator
+3343	Global regulatory functions
+3344	regulator
+3344	RNA synthesis, modification, DNA transcription
+3346	transport
+3346	Transport of small molecules: Cations
+3347	transport
+3347	Transport of small molecules: Cations
+3350	enzyme
+3350	Biosynthesis of cofactors, carriers: Biotin
+3353	transport
+3353	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3354	enzyme
+3354	Degradation of polysaccharides
+3355	enzyme
+3355	Degradation of small molecules: Carbon compounds
+3356	regulator
+3356	Degradation of small molecules: Carbon compounds
+3357	enzyme
+3357	RNA synthesis, modification, DNA transcription
+3359	putative regulator
+3359	Not classified
+3361	phenotype
+3361	Energy metabolism, carbon: Anaerobic respiration
+3362	phenotype
+3362	Energy metabolism, carbon: Anaerobic respiration
+3363	enzyme
+3363	Energy metabolism, carbon: Aerobic respiration
+3365	enzyme
+3365	Macromolecule synthesis, modification: Polysaccharides - (cytoplasmic)
+3366	enzyme
+3366	Macromolecule synthesis, modification: Polysaccharides - (cytoplasmic)
+3367	enzyme
+3367	Macromolecule synthesis, modification: Polysaccharides - (cytoplasmic)
+3368	enzyme
+3368	Macromolecule synthesis, modification: Polysaccharides - (cytoplasmic)
+3369	enzyme
+3369	Macromolecule synthesis, modification: Polysaccharides - (cytoplasmic)
+3370	enzyme
+3370	Amino acid biosynthesis: Lysine
+3372	transport
+3372	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3373	enzyme
+3373	Central intermediary metabolism: Miscellaneous glucose metabolism
+3374	regulator
+3374	Central intermediary metabolism: Entner-Douderoff
+3376	putative regulator
+3376	Not classified
+3377	enzyme
+3377	Not classified
+3380	IS, phage, Tn
+3380	Transposon-related functions
+3380	extrachromosomal
+3380	transposon related
+3381	IS, phage, Tn
+3381	Transposon-related functions
+3381	extrachromosomal
+3381	transposon related
+3382	factor
+3382	Adaptations, atypical conditions
+3383	enzyme
+3383	Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+3385	enzyme
+3385	Central intermediary metabolism: Pool, multipurpose conversions
+3386	transport
+3386	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3387	transport
+3387	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3388	transport
+3388	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3389	transport
+3389	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3390	transport
+3390	Transport of small molecules: Amino acids, amines
+3391	transport
+3391	Transport of small molecules: Amino acids, amines
+3392	transport
+3392	Transport of small molecules: Amino acids, amines
+3393	transport
+3393	Transport of small molecules: Amino acids, amines
+3394	transport
+3394	Transport of small molecules: Amino acids, amines
+3395	factor
+3395	Biosynthesis of cofactors, carriers: Pantothenate
+3396	transport
+3396	Transport of small molecules: Amino acids, amines
+3397	factor
+3397	Global regulatory functions
+3398	membrane
+3398	Cell division
+3399	phenotype
+3399	Not classified
+3400	membrane
+3400	Cell division
+3401	enzyme
+3401	rRNA modification
+3403	putative factor
+3403	Not classified
+3404	putative enzyme
+3404	Not classified
+3405	transport
+3405	Transport of small molecules: Cations
+3409	putative transport
+3409	Not classified
+3412	transport
+3412	Transport of small molecules: Cations
+3413	transport
+3413	Transport of small molecules: Cations
+3414	transport
+3414	Transport of small molecules: Cations
+3415	transport
+3415	Transport of small molecules: Cations
+3416	transport
+3416	Transport of small molecules: Cations
+3421	putative factor
+3421	Not classified
+3422	putative transport
+3422	Not classified
+3423	putative transport
+3423	Not classified
+3424	putative membrane
+3424	Not classified
+3428	putative enzyme
+3428	Not classified
+3429	transport
+3429	Transport of small molecules: Anions
+3431	putative regulator
+3431	Adaptations, atypical conditions
+3432	transport
+3432	Not classified
+3433	enzyme
+3433	rRNA modification
+3434	enzyme
+3434	Degradation of proteins, peptides, glyco
+3435	enzyme
+3435	rRNA modification
+3436	enzyme
+3436	Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+3438	regulator
+3438	Drug/analog sensitivity
+3439	transport
+3439	Drug/analog sensitivity
+3440	enzyme
+3440	Drug/analog sensitivity
+3442	IS, phage, Tn
+3442	Transposon-related functions
+3442	extrachromosomal
+3442	transposon related
+3443	membrane
+3443	Outer membrane constituents
+3445	putative transport
+3445	Not classified
+3449	regulator
+3449	Not classified
+3450	putative membrane
+3450	Not classified
+3451	putative transport
+3451	Not classified
+3452	putative regulator
+3452	Not classified
+3454	enzyme
+3454	Central intermediary metabolism: Pool, multipurpose conversions
+3455	putative enzyme
+3455	Not classified
+3456	enzyme
+3456	Degradation of small molecules: Carbon compounds
+3457	putative regulator
+3457	Not classified
+3458	putative regulator
+3458	Not classified
+3460	putative transport
+3460	Not classified
+3463	enzyme
+3463	Degradation of small molecules: Carbon compounds
+3465	transport
+3465	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3467	putative enzyme
+3467	Not classified
+3470	putative enzyme
+3470	Not classified
+3477	putative transport
+3477	Not classified
+3478	transport
+3478	Not classified
+3479	transport
+3479	Not classified
+3480	transport
+3480	Not classified
+3481	transport
+3481	Not classified
+3482	transport
+3482	Not classified
+3484	putative transport
+3484	Drug/analog sensitivity
+3485	putative enzyme
+3485	Not classified
+3486	enzyme
+3486	DNA - replication, repair, restriction/modification
+3488	enzyme
+3488	Biosynthesis of cofactors, carriers: Biotin
+3489	putative membrane
+3489	Not classified
+3493	regulator
+3493	Adaptations, atypical conditions
+3495	component of addiction module (incomplete)
+3496	IS, phage, Tn
+3496	Transposon-related functions
+3496	extrachromosomal
+3496	transposon related
+3497	IS, phage, Tn
+3497	Transposon-related functions
+3497	extrachromosomal
+3497	transposon related
+3498	enzyme
+3498	Aminoacyl tRNA synthetases, tRNA modification
+3499	enzyme
+3499	Aminoacyl tRNA synthetases, tRNA modification
+3504	enzyme
+3504	Degradation of small molecules: Carbon compounds
+3505	enzyme
+3505	Degradation of small molecules: Carbon compounds
+3506	transport
+3506	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3507	transport
+3507	Sugar metabolism
+3508	putative transport
+3508	Not classified
+3509	putative regulator
+3509	Degradation of small molecules: Carbon compounds
+3510	putative enzyme
+3510	Not classified
+3511	enzyme
+3511	Degradation of polysaccharides
+3512	enzyme
+3512	Amino acid biosynthesis: Alanine
+3514	putative regulator
+3514	Not classified
+3515	putative enzyme
+3515	Not classified
+3516	putative enzyme
+3516	Not classified
+3517	transport
+3517	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3518	transport
+3518	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3519	transport
+3519	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3520	enzyme
+3520	Degradation of small molecules: Carbon compounds
+3521	enzyme
+3521	Central intermediary metabolism: Pool, multipurpose conversions
+3522	putative enzyme
+3522	Central intermediary metabolism: Pool, multipurpose conversions
+3523	enzyme
+3523	Central intermediary metabolism: Pool, multipurpose conversions
+3526	putative membrane
+3526	Not classified
+3527	putative regulator
+3527	Not classified
+3528	putative membrane
+3528	Not classified
+3530	enzyme
+3530	Degradation of small molecules: Carbon compounds
+3531	enzyme
+3531	Not classified
+3532	factor
+3532	Proteins - translation and modification
+3533	enzyme
+3533	Aminoacyl tRNA synthetases, tRNA modification
+3534	putative enzyme
+3534	Not classified
+3543	putative membrane
+3543	Not classified
+3545	transport
+3545	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3546	enzyme
+3546	Degradation of small molecules: Carbon compounds
+3547	regulator
+3547	Degradation of small molecules: Carbon compounds
+3550	transport
+3550	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3551	regulator
+3551	Energy metabolism, carbon: Aerobic respiration
+3552	enzyme
+3552	Energy metabolism, carbon: Aerobic respiration
+3553	enzyme
+3553	tRNA modification
+3554	enzyme
+3554	Amino acid biosynthesis: Cysteine
+3555	enzyme
+3555	Energy metabolism, carbon: Aerobic respiration
+3556	transport
+3556	Protein, peptide secretion
+3557	enzyme
+3557	Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+3559	putative enzyme
+3559	Not classified
+3560	enzyme
+3560	Murein sacculus, peptidoglycan
+3562	putative regulator
+3562	Not classified
+3563	enzyme
+3563	Degradation of small molecules: Amino acids
+3564	enzyme
+3564	Central intermediary metabolism: Pool, multipurpose conversions
+3565	phenotype
+3565	Not classified
+3566	enzyme
+3566	Surface polysaccharides & antigens
+3567	enzyme
+3567	Macromolecule metabolism: Lipopolysaccharide
+3568	enzyme
+3568	Macromolecule metabolism: Lipopolysaccharide
+3569	enzyme
+3569	Macromolecule metabolism: Lipopolysaccharide
+3570	enzyme
+3570	Macromolecule metabolism: Lipopolysaccharide
+3571	enzyme
+3571	Macromolecule metabolism: Lipopolysaccharide
+3572	enzyme
+3572	Macromolecule metabolism: Lipopolysaccharide
+3573	enzyme
+3573	Surface polysaccharides & antigens
+3574	enzyme
+3574	Surface polysaccharides & antigens
+3575	enzyme
+3575	Surface polysaccharides & antigens
+3576	enzyme
+3576	Macromolecule metabolism: Lipopolysaccharide
+3577	enzyme
+3577	Macromolecule metabolism: Lipopolysaccharide
+3578	enzyme
+3578	Macromolecule metabolism: Lipopolysaccharide
+3579	enzyme
+3579	Macromolecule metabolism: Lipopolysaccharide
+3580	enzyme
+3580	Surface polysaccharides & antigens
+3581	enzyme
+3581	Not classified
+3582	enzyme
+3582	DNA - replication, repair, restriction/modification
+3583	structural component
+3583	Ribosomal proteins - synthesis, modification
+3584	structural component
+3584	Ribosomal proteins - synthesis, modification
+3585	phenotype
+3585	Not classified
+3586	phenotype
+3586	DNA - replication, repair, restriction/modification
+3587	enzyme
+3587	2'-Deoxyribonucleotide metabolism
+3588	putative regulator
+3588	Not classified
+3589	enzyme
+3589	Pyrimidine ribonucleotide biosynthesis
+3591	phenotype
+3591	Not classified
+3592	phenotype
+3592	DNA - replication, repair, restriction/modification
+3594	putative enzyme
+3594	Not classified
+3595	enzyme
+3595	Purine ribonucleotide biosynthesis
+3596	enzyme
+3596	RNA synthesis, modification, DNA transcription
+3597	enzyme
+3597	Global regulatory functions
+3598	enzyme
+3598	tRNA modification
+3599	enzyme
+3599	DNA - replication, repair, restriction/modification
+3600	transport
+3600	Transport of small molecules: Amino acids, amines
+3601	transport
+3601	Transport of small molecules: Nucleosides, purines, pyrimidines
+3604	putative transport
+3604	Not classified
+3606	putative transport
+3606	Not classified
+3607	putative transport
+3607	Not classified
+3608	membrane
+3608	Macromolecule synthesis, modification: Lipoprotein
+3610	putative transport
+3610	Not classified
+3612	transport
+3612	Transport of small molecules: Nucleosides, purines, pyrimidines
+3613	putative enzyme
+3613	Purine ribonucleotide biosynthesis
+3614	transport
+3614	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3615	regulator
+3615	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3616	enzyme
+3616	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3617	regulator
+3617	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3618	enzyme
+3618	Amino acid biosynthesis: Isoleucine, Valine
+3619	enzyme
+3619	Amino acid biosynthesis: Isoleucine, Valine
+3620	leader
+3620	Amino acid biosynthesis: Isoleucine, Valine
+3622	transport
+3622	Drug/analog sensitivity
+3623	putative enzyme
+3623	Not classified
+3627	putative enzyme
+3627	Not classified
+3628	putative transport
+3628	Not classified
+3629	putative regulator
+3629	Not classified
+3632	putative regulator
+3632	Not classified
+3633	putative transport
+3633	Not classified
+3634	factor
+3634	Adaptations, atypical conditions
+3635	factor
+3635	Adaptations, atypical conditions
+3639	transport
+3639	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3640	enzyme
+3640	Degradation of small molecules: Carbon compounds
+3641	enzyme
+3641	Degradation of small molecules: Carbon compounds
+3642	enzyme
+3642	Degradation of small molecules: Carbon compounds
+3644	putative enzyme
+3644	Not classified
+3647	enzyme
+3647	DNA - replication, repair, restriction/modification
+3648	regulator
+3648	DNA - replication, repair, restriction/modification
+3649	enzyme
+3649	DNA - replication, repair, restriction/modification
+3650	regulator
+3650	DNA - replication, repair, restriction/modification
+3651	structural component
+3651	Ribosomal proteins - synthesis, modification
+3652	enzyme
+3652	Degradation of RNA
+3653	membrane
+3653	Inner membrane
+3654	membrane
+3654	Inner membrane
+3655	enzyme
+3655	tRNA modification
+3656	leader
+3656	Degradation of small molecules: Amino acids
+3657	enzyme
+3657	Degradation of small molecules: Amino acids
+3658	transport
+3658	Transport of small molecules: Amino acids, amines
+3659	putative transport
+3659	Not classified
+3660	putative regulator
+3660	Not classified
+3663	transport
+3663	Transport of small molecules: Nucleosides, purines, pyrimidines
+3664	enzyme
+3664	Not classified
+3667	putative enzyme
+3667	Not classified
+3668	putative enzyme
+3668	Not classified
+3669	putative membrane
+3669	Not classified
+3670	enzyme
+3670	Degradation of small molecules: Carbon compounds
+3671	enzyme
+3671	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3672	regulator
+3672	Degradation of small molecules: Carbon compounds
+3673	regulator
+3673	Global regulatory functions
+3674	transport
+3674	Transport of small molecules: Anions
+3675	transport
+3675	Transport of small molecules: Anions
+3676	transport
+3676	Transport of small molecules: Anions
+3677	transport
+3677	Transport of small molecules: Anions
+3678	enzyme
+3678	Central intermediary metabolism: Amino sugars
+3679	enzyme
+3679	Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+3680	enzyme
+3680	ATP-proton motive force interconversion
+3681	enzyme
+3681	ATP-proton motive force interconversion
+3682	enzyme
+3682	ATP-proton motive force interconversion
+3683	enzyme
+3683	ATP-proton motive force interconversion
+3684	enzyme
+3684	ATP-proton motive force interconversion
+3685	enzyme
+3685	ATP-proton motive force interconversion
+3686	enzyme
+3686	ATP-proton motive force interconversion
+3687	enzyme
+3687	ATP-proton motive force interconversion
+3688	enzyme
+3688	ATP-proton motive force interconversion
+3689	enzyme
+3689	rRNA modification
+3689	phenotype
+3689	DNA - replication, repair, restriction/modification
+3690	enzyme
+3690	tRNA modification
+3691	factor
+3691	DNA - replication, repair, restriction/modification
+3692	regulator
+3692	Amino acid biosynthesis: Asparagine
+3693	enzyme
+3693	Amino acid biosynthesis: Asparagine
+3695	putative regulator
+3695	Not classified
+3696	transport
+3696	Transport of small molecules: Cations
+3697	transport
+3697	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3698	transport
+3698	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3699	transport
+3699	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3700	transport
+3700	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3701	enzyme
+3701	Degradation of small molecules: Carbon compounds
+3702	regulator
+3702	Degradation of small molecules: Carbon compounds
+3703	putative transport
+3703	Not classified
+3705	regulator
+3705	Not classified
+3707	putative regulator
+3707	Not classified
+3708	leader
+3708	Amino acid biosynthesis: Isoleucine, Valine
+3711	enzyme
+3711	Amino acid biosynthesis: Isoleucine, Valine
+3712	enzyme
+3712	Amino acid biosynthesis: Isoleucine, Valine
+3713	enzyme
+3713	Amino acid biosynthesis: Isoleucine, Valine
+3714	enzyme
+3714	Amino acid biosynthesis: Isoleucine, Valine
+3715	regulator
+3715	Amino acid biosynthesis: Isoleucine, Valine
+3716	enzyme
+3716	Amino acid biosynthesis: Isoleucine, Valine
+3717	enzyme
+3717	Proteins - translation and modification
+3719	enzyme
+3719	DNA - replication, repair, restriction/modification
+3720	enzyme
+3720	Global regulatory functions
+3721	putative enzyme
+3721	Not classified
+3722	enzyme
+3722	Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+3723	factor
+3723	RNA synthesis, modification, DNA transcription
+3724	enzyme
+3724	Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+3725	putative transport
+3725	Not classified
+3726	enzyme
+3726	Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+3727	enzyme
+3727	Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+3728	enzyme
+3728	Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+3729	enzyme
+3729	Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+3732	putative carrier
+3732	Not classified
+3734	enzyme
+3734	Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+3735	enzyme
+3735	Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+3736	putative transport
+3736	Not classified
+3737	regulator
+3737	Not classified
+3738	enzyme
+3738	Central intermediary metabolism: Sulfur metabolism
+3739	enzyme
+3739	Biosynthesis of cofactors, carriers: Heme, porphyrin
+3740	enzyme
+3740	Biosynthesis of cofactors, carriers: Heme, porphyrin
+3741	enzyme
+3741	Biosynthesis of cofactors, carriers: Heme, porphyrin
+3742	enzyme
+3742	Biosynthesis of cofactors, carriers: Heme, porphyrin
+3743	enzyme
+3743	Global regulatory functions
+3744	putative factor
+3744	Chaperones
+3746	enzyme
+3746	Amino acid biosynthesis: Lysine
+3748	enzyme
+3748	Cell division
+3749	enzyme
+3749	Biosynthesis of cofactors, carriers: Riboflavin
+3750	enzyme
+3750	DNA - replication, repair, restriction/modification
+3752	transport
+3752	Transport of small molecules: Cations
+3757	enzyme
+3757	Central intermediary metabolism: Phosphorus compounds
+3758	enzyme
+3758	DNA - replication, repair, restriction/modification
+3761	enzyme
+3761	Central intermediary metabolism: Phosphorus compounds
+3764	regulator
+3764	Amino acid biosynthesis: Methionine
+3765	enzyme
+3765	Amino acid biosynthesis: Methionine
+3766	putative enzyme
+3766	Not classified
+3767	enzyme
+3767	Salvage of nucleosides and nucleotides
+3768	phenotype
+3768	Not classified
+3769	enzyme
+3769	Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+3770	putative factor
+3770	Biosynthesis of cofactors, carriers:, Ubiquinone
+3771	putative enzyme
+3771	Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+3776	regulator
+3776	Macromolecule metabolism: Lipopolysaccharide
+3778	enzyme
+3778	Energy metabolism, carbon: Electron transport
+3779	enzyme
+3779	Degradation of small molecules: Fatty acids
+3780	enzyme
+3780	Degradation of small molecules: Fatty acids
+3781	enzyme
+3781	Degradation of proteins, peptides, glyco
+3783	transport
+3783	Transport of small molecules: Cations
+3784	enzyme
+3784	Biosynthesis of cofactors, carriers: Heme, porphyrin
+3785	enzyme
+3785	Central intermediary metabolism: Nucleotide interconversions
+3786	enzyme
+3786	Biosynthesis of cofactors, carriers: Molybdopterin
+3789	enzyme
+3789	Proteins - translation and modification
+3790	orf
+3790	Not classified
+3791	putative enzyme
+3791	Not classified
+3792	enzyme
+3792	DNA - replication, repair, restriction/modification
+3795	enzyme
+3795	Biosynthesis of cofactors, carriers: Heme, porphyrin
+3797	regulator
+3797	Amino acid biosynthesis: Glutamine
+3798	enzyme
+3798	Amino acid biosynthesis: Glutamine
+3799	enzyme
+3799	Amino acid biosynthesis: Glutamine
+3800	putative factor
+3800	Not classified
+3801	putative regulator
+3801	Not classified
+3803	putative transport
+3803	Drug/analog sensitivity
+3805	putative transport
+3805	Not classified
+3806	putative transport
+3806	Not classified
+3807	enzyme
+3807	Not classified
+3808	enzyme
+3808	Not classified
+3809	enzyme
+3809	Not classified
+3810	enzyme
+3810	Not classified
+3811	enzyme
+3811	Not classified
+3812	enzyme
+3812	Not classified
+3813	putative enzyme
+3813	Not classified
+3814	enzyme
+3814	Not classified
+3817	putative enzyme
+3817	Not classified
+3820	phenotype
+3820	Energy metabolism, carbon: Anaerobic respiration
+3821	enzyme
+3821	Energy metabolism, carbon: Anaerobic respiration
+3822	enzyme
+3822	Energy metabolism, carbon: Anaerobic respiration
+3823	enzyme
+3823	Energy metabolism, carbon: Anaerobic respiration
+3824	phenotype
+3824	Energy metabolism, carbon: Anaerobic respiration
+3826	putative regulator
+3826	Not classified
+3827	orf
+3827	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3828	enzyme
+3828	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3829	enzyme
+3829	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3831	enzyme
+3831	Degradation of small molecules: Carbon compounds
+3832	enzyme
+3832	Degradation of small molecules: Carbon compounds
+3833	enzyme
+3833	Degradation of small molecules: Carbon compounds
+3834	regulator
+3834	Degradation of small molecules: Carbon compounds
+3835	regulator
+3835	Degradation of small molecules: Carbon compounds
+3836	transport
+3836	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3837	enzyme
+3837	Detoxification
+3838	transport
+3838	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3840	putative regulator
+3840	Global regulatory functions
+3841	putative regulator
+3841	Not classified
+3843	putative transport
+3843	Not classified
+3844	enzyme
+3844	Energy metabolism, carbon: Glycolysis
+3845	transport
+3845	Transport of small molecules: Anions
+3846	enzyme
+3846	Fatty acid and phosphatidic acid biosynthesis
+3847	enzyme
+3847	Energy metabolism, carbon: Glycolysis
+3851	putative regulator
+3851	Not classified
+3852	enzyme
+3852	Central intermediary metabolism: Pool, multipurpose conversions
+3853	phenotype
+3853	Not classified
+3854	enzyme
+3854	Central intermediary metabolism: Pool, multipurpose conversions
+3855	transport
+3855	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3858	enzyme
+3858	Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+3859	factor
+3859	Adaptations, atypical conditions
+3860	enzyme
+3860	Degradation of proteins, peptides, glyco
+3861	phenotype
+3861	Cell division
+3862	regulator
+3862	Global regulatory functions
+3863	factor
+3863	DNA - replication, repair, restriction/modification
+3864	structural component
+3864	Ribosomal proteins - synthesis, modification
+3866	regulator
+3866	Amino acid biosynthesis: Methionine
+3867	enzyme
+3867	Amino acid biosynthesis: Methionine
+3868	enzyme
+3868	Amino acid biosynthesis: Methionine
+3869	enzyme
+3869	Central intermediary metabolism: Pool, multipurpose conversions
+3870	enzyme
+3870	Detoxification
+3873	enzyme
+3873	Central intermediary metabolism: Pool, multipurpose conversions
+3874	putative enzyme
+3874	Not classified
+3875	enzyme
+3875	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3876	transport
+3876	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3877	enzyme
+3877	Degradation of small molecules: Carbon compounds
+3878	enzyme
+3878	Energy metabolism, carbon: Anaerobic respiration
+3879	putative enzyme
+3879	Energy metabolism, carbon: Anaerobic respiration
+3880	enzyme
+3880	Degradation of small molecules: Carbon compounds
+3881	putative regulator
+3881	Not classified
+3883	enzyme
+3883	Energy metabolism, carbon: Fermentation
+3884	enzyme
+3884	Amino acid biosynthesis: Arginine
+3885	enzyme
+3885	Amino acid biosynthesis: Arginine
+3886	enzyme
+3886	Amino acid biosynthesis: Arginine
+3887	enzyme
+3887	Amino acid biosynthesis: Arginine
+3888	regulator
+3888	Global regulatory functions
+3889	putative enzyme
+3889	Not classified
+3892	enzyme
+3892	tRNA modification
+3893	membrane
+3893	Outer membrane constituents
+3894	enzyme
+3894	Murein sacculus, peptidoglycan
+3895	enzyme
+3895	Murein sacculus, peptidoglycan
+3896	enzyme
+3896	Biosynthesis of cofactors, carriers: Biotin
+3897	enzyme
+3897	Biosynthesis of cofactors, carriers: Pantothenate
+3898	factor
+3898	Proteins - translation and modification
+3899	transport
+3899	Protein, peptide secretion
+3900	putative factor
+3900	RNA synthesis, modification, DNA transcription
+3901	structural component
+3901	Ribosomal proteins - synthesis, modification
+3902	structural component
+3902	Ribosomal proteins - synthesis, modification
+3903	structural component
+3903	Ribosomal proteins - synthesis, modification
+3904	structural component
+3904	Ribosomal proteins - synthesis, modification
+3905	enzyme
+3905	RNA synthesis, modification, DNA transcription
+3906	enzyme
+3906	RNA synthesis, modification, DNA transcription
+3907	factor
+3907	Adaptations, atypical conditions
+3908	enzyme
+3908	Biosynthesis of cofactors, carriers: Thiamine
+3909	enzyme
+3909	Biosynthesis of cofactors, carriers: Thiamine
+3910	factor
+3910	Biosynthesis of cofactors, carriers: Thiamine
+3911	enzyme
+3911	Biosynthesis of cofactors, carriers: Thiamine
+3912	enzyme
+3912	Biosynthesis of cofactors, carriers: Thiamine
+3913	enzyme
+3913	Biosynthesis of cofactors, carriers: Thiamine
+3914	regulator
+3914	Not classified
+3916	enzyme
+3916	Biosynthesis of cofactors, carriers: Heme, porphyrin
+3917	enzyme
+3917	Degradation of DNA
+3919	factor
+3919	Basic proteins - synthesis, modification
+3922	enzyme
+3922	Energy metabolism, carbon: Fermentation
+3923	regulator
+3923	Energy metabolism, carbon: Fermentation
+3924	enzyme
+3924	Purine ribonucleotide biosynthesis
+3925	enzyme
+3925	Purine ribonucleotide biosynthesis
+3928	enzyme
+3928	Amino acid biosynthesis: Methionine
+3929	enzyme
+3929	Central intermediary metabolism: Glyoxylate bypass
+3930	enzyme
+3930	Central intermediary metabolism: Glyoxylate bypass
+3931	enzyme
+3931	Central intermediary metabolism: Glyoxylate bypass
+3933	regulator
+3933	Central intermediary metabolism: Glyoxylate bypass
+3934	enzyme
+3934	Amino acid biosynthesis: Methionine
+3935	phenotype
+3935	Not classified
+3936	enzyme
+3936	Degradation of proteins, peptides, glyco
+3937	enzyme
+3937	rRNA modification
+3939	enzyme
+3939	Amino acid biosynthesis: Lysine
+3940	enzyme
+3940	Energy metabolism, carbon: Glycolysis
+3947	transport
+3947	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3948	transport
+3948	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3949	transport
+3949	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3950	transport
+3950	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3951	transport
+3951	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3952	IS, phage, Tn
+3952	Transport of small molecules: Carbohydrates, organic acids, alcohols
+3953	phenotype
+3953	Degradation of small molecules: Carbon compounds
+3955	enzyme
+3955	Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+3956	enzyme
+3956	Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+3957	enzyme
+3957	Macromolecule synthesis, modification: Phospholipids
+3958	enzyme
+3958	Fatty acid and phosphatidic acid biosynthesis
+3959	regulator
+3959	Global regulatory functions
+3960	factor
+3960	DNA - replication, repair, restriction/modification
+3962	putative regulator
+3962	Not classified
+3965	enzyme
+3965	tRNA modification
+3967	enzyme
+3967	Energy metabolism, carbon: Electron transport
+3968	factor
+3968	DNA - replication, repair, restriction/modification
+3969	enzyme
+3969	Amino acid biosynthesis: Alanine
+3970	enzyme
+3970	Amino acid biosynthesis: Tyrosine
+3972	enzyme
+3972	Central intermediary metabolism: Nucleotide hydrolysis
+3975	enzyme
+3975	DNA - replication, repair, restriction/modification
+3976	factor
+3976	DNA - replication, repair, restriction/modification
+3979	regulator
+3979	Global regulatory functions
+3980	regulator
+3980	Global regulatory functions
+3981	transport
+3981	Transport of small molecules: Nucleosides, purines, pyrimidines
+3986	enzyme
+3986	Fatty acid and phosphatidic acid biosynthesis
+3987	carrier
+3987	Energy metabolism, carbon: Electron transport
+3988	enzyme
+3988	Energy metabolism, carbon: Anaerobic respiration
+3989	enzyme
+3989	Energy metabolism, carbon: Anaerobic respiration
+3990	enzyme
+3990	Energy metabolism, carbon: Anaerobic respiration
+3991	enzyme
+3991	Energy metabolism, carbon: Anaerobic respiration
+3992	enzyme
+3992	Energy metabolism, carbon: Anaerobic respiration
+3993	enzyme
+3993	Energy metabolism, carbon: Anaerobic respiration
+3994	transport
+3994	Transport of small molecules: Amino acids, amines
+3996	enzyme
+3996	Energy metabolism, carbon: Anaerobic respiration
+3997	orf
+3997	Not classified
+3998	orf
+3998	Not classified
+3999	putative membrane
+3999	Not classified
+4002	putative regulator
+4002	Not classified
+4003	putative enzyme
+4003	Not classified
+4004	putative transport
+4004	Not classified
+4005	putative transport
+4005	Not classified
+4006	putative regulator
+4006	Not classified
+4007	regulator
+4007	Central intermediary metabolism: Non-oxidative branch, pentose pathway
+4008	enzyme
+4008	Central intermediary metabolism: Non-oxidative branch, pentose pathway
+4010	enzyme
+4010	Central intermediary metabolism: Phosphorus compounds
+4011	enzyme
+4011	Central intermediary metabolism: Phosphorus compounds
+4012	transport
+4012	Central intermediary metabolism: Phosphorus compounds
+4013	enzyme
+4013	Central intermediary metabolism: Phosphorus compounds
+4014	enzyme
+4014	Central intermediary metabolism: Phosphorus compounds
+4015	enzyme
+4015	Central intermediary metabolism: Phosphorus compounds
+4016	enzyme
+4016	Central intermediary metabolism: Phosphorus compounds
+4017	enzyme
+4017	Central intermediary metabolism: Phosphorus compounds
+4018	enzyme
+4018	Central intermediary metabolism: Phosphorus compounds
+4019	enzyme
+4019	Central intermediary metabolism: Phosphorus compounds
+4020	putative regulator
+4020	Not classified
+4022	transport
+4022	Transport of small molecules: Anions
+4023	transport
+4023	Central intermediary metabolism: Phosphorus compounds
+4024	putative enzyme
+4024	Not classified
+4026	phenotype
+4026	Not classified
+4028	transport
+4028	Transport of small molecules: Amino acids, amines
+4030	enzyme
+4030	RNA synthesis, modification, DNA transcription
+4031	regulator
+4031	RNA synthesis, modification, DNA transcription
+4033	putative transport
+4033	Not classified
+4034	putative regulator
+4034	Not classified
+4035	enzyme
+4035	Degradation of small molecules: Amino acids
+4036	regulator
+4036	Degradation of small molecules: Carbon compounds
+4037	enzyme
+4037	Degradation of small molecules: Carbon compounds
+4038	transport
+4038	Transport of small molecules: Carbohydrates, organic acids, alcohols
+4040	enzyme
+4040	Energy metabolism, carbon: TCA cycle
+4041	transport
+4041	Transport of small molecules: Carbohydrates, organic acids, alcohols
+4042	putative regulator
+4042	Not classified
+4043	putative regulator
+4043	Not classified
+4048	enzyme
+4048	Aminoacyl tRNA synthetases, tRNA modification
+4049	transport
+4049	Not classified
+4050	enzyme
+4050	Degradation of small molecules: Amino acids
+4051	transport
+4051	Transport of small molecules: Amino acids, amines
+4052	regulator
+4052	Degradation of small molecules: Amino acids
+4055	putative enzyme
+4055	Central intermediary metabolism: Sulfur metabolism
+4056	phenotype
+4056	Adaptations, atypical conditions
+4057	transport
+4057	Transport of small molecules: Carbohydrates, organic acids, alcohols
+4058	enzyme
+4058	Central intermediary metabolism: Pool, multipurpose conversions
+4060	putative transport
+4060	Not classified
+4061	factor
+4061	Chaperones
+4062	factor
+4062	Chaperones
+4065	enzyme
+4065	Protein modification
+4066	factor
+4066	Proteins - translation and modification
+4069	putative factor
+4069	Not classified
+4070	membrane
+4070	Macromolecule synthesis, modification: Lipoprotein
+4071	enzyme
+4071	Drug/analog sensitivity
+4072	enzyme
+4072	Energy metabolism, carbon: Anaerobic respiration
+4073	enzyme
+4073	Energy metabolism, carbon: Anaerobic respiration
+4074	enzyme
+4074	Energy metabolism, carbon: Anaerobic respiration
+4075	enzyme
+4075	Energy metabolism, carbon: Anaerobic respiration
+4076	enzyme
+4076	Protein modification
+4077	putative transport
+4077	Not classified
+4080	transport
+4080	ions
+4081	enzyme
+4081	Macromolecule synthesis, modification: Phospholipids
+4085	enzyme
+4085	cofactor biosynthesis
+4086	enzyme
+4086	Not classified
+4087	enzyme
+4087	tRNA modification
+4088	enzyme
+4088	Murein sacculus, peptidoglycan
+4089	enzyme
+4089	DNA - replication, repair, restriction/modification
+4090	enzyme
+4090	Aminoacyl tRNA synthetases, tRNA modification
+4091	factor
+4091	Phage-related functions and prophages
+4092	enzyme
+4092	Degradation of proteins, peptides, glyco
+4093	enzyme
+4093	Degradation of proteins, peptides, glyco
+4094	enzyme
+4094	Degradation of proteins, peptides, glyco
+4096	enzyme
+4096	Purine ribonucleotide biosynthesis
+4098	putative enzyme
+4098	Not classified
+4099	enzyme
+4099	rRNA modification
+4101	phenotype
+4101	Not classified
+4105	putative enzyme
+4105	Not classified
+4106	enzyme
+4106	DNA repair
+4110	putative regulator
+4110	Not classified
+4114	putative transport
+4114	Not classified
+4115	putative enzyme
+4115	Central intermediary metabolism: Pool, multipurpose conversions
+4116	putative enzyme
+4116	Central intermediary metabolism: Pool, multipurpose conversions
+4117	putative enzyme
+4117	Not classified
+4119	structural component
+4119	Ribosomal proteins - synthesis, modification
+4120	factor
+4120	DNA - replication, repair, restriction/modification
+4121	structural component
+4121	Ribosomal proteins - synthesis, modification
+4122	structural component
+4122	Ribosomal proteins - synthesis, modification
+4126	enzyme
+4126	Proteins - translation and modification
+4127	transport
+4127	Transport of small molecules: Amino acids, amines
+4129	putative membrane
+4129	Not classified
+4130	enzyme
+4130	Energy metabolism, carbon: Electron transport
+4132	enzyme
+4132	Salvage of nucleosides and nucleotides
+4133	enzyme
+4133	Central intermediary metabolism: Sulfur metabolism
+4137	putative transport
+4137	Not classified
+4138	enzyme
+4138	Proteins - translation and modification
+4139	transport
+4139	Not classified
+4140	transport
+4140	Not classified
+4142	phenotype
+4142	Not classified
+4143	putative factor
+4143	Not classified
+4144	enzyme
+4144	Central intermediary metabolism: Pool, multipurpose conversions
+4145	putative regulator
+4145	Not classified
+4146	putative transport
+4146	Not classified
+4147	putative transport
+4147	Not classified
+4148	putative transport
+4148	Not classified
+4149	enzyme
+4149	Central intermediary metabolism: Gluconeogenesis
+4150	putative enzyme
+4150	Not classified
+4151	phenotype
+4151	Not classified
+4154	enzyme
+4154	Central intermediary metabolism: Nucleotide interconversions
+4155	enzyme
+4155	2'-Deoxyribonucleotide metabolism
+4156	enzyme
+4156	Degradation of small molecules: Carbon compounds
+4157	transport
+4157	Transport of small molecules: Carbohydrates, organic acids, alcohols
+4158	regulator
+4158	Osmotic adaptation
+4160	enzyme
+4160	Transport of small molecules: Cations
+4162	enzyme
+4162	Pyrimidine ribonucleotide biosynthesis
+4163	enzyme
+4163	Pyrimidine ribonucleotide biosynthesis
+4164	leader
+4164	Pyrimidine ribonucleotide biosynthesis
+4166	regulator
+4166	Not classified
+4167	regulator
+4167	Not classified
+4168	putative enzyme
+4168	Not classified
+4170	enzyme
+4170	Amino acid biosynthesis: Arginine
+4174	enzyme
+4174	Aminoacyl tRNA synthetases, tRNA modification
+4175	enzyme
+4175	DNA - replication, repair, restriction/modification
+4176	enzyme
+4176	Degradation of proteins, peptides, glyco
+4180	putative regulator
+4180	Not classified
+4181	putative transport
+4181	Not classified
+4182	putative enzyme
+4182	Not classified
+4183	putative enzyme
+4183	Not classified
+4184	enzyme
+4184	Degradation of small molecules: Carbon compounds
+4185	enzyme
+4185	Degradation of small molecules: Carbon compounds
+4187	IS, phage, Tn
+4187	Transposon-related functions
+4187	extrachromosomal
+4187	transposon related
+4188	IS, phage, Tn
+4188	Transposon-related functions
+4188	extrachromosomal
+4188	transposon related
+4191	IS, phage, Tn
+4191	Transposon-related functions
+4191	extrachromosomal
+4191	transposon related
+4192	putative transport
+4192	Not classified
+4193	orf
+4193	Not classified
+4198	IS, phage, Tn
+4198	Transposon-related functions
+4198	extrachromosomal
+4198	transposon related
+4201	transport
+4201	Transport of small molecules: Cations
+4202	transport
+4202	Transport of small molecules: Cations
+4203	transport
+4203	Transport of small molecules: Cations
+4204	transport
+4204	Transport of small molecules: Cations
+4205	membrane
+4205	Transport of small molecules: Cations
+4206	regulator
+4206	Transport of small molecules: Cations
+4207	regulator
+4207	Global regulatory functions
+4208	IS, phage, Tn
+4208	Transposon-related functions
+4208	extrachromosomal
+4208	transposon related
+4210	putative regulator
+4210	Not classified
+4211	putative transport
+4211	Not classified
+4212	putative enzyme
+4212	Not classified
+4213	putative enzyme
+4213	Not classified
+4214	putative regulator
+4214	Not classified
+4215	putative regulator
+4215	Not classified
+4216	putative enzyme
+4216	Not classified
+4217	putative transport
+4217	Not classified
+4218	putative enzyme
+4218	Not classified
+4219	putative transport
+4219	Not classified
+4221	putative enzyme
+4221	Not classified
+4223	putative enzyme
+4223	Not classified
+4231	regulator
+4231	Surface structures
+4232	regulator
+4232	Surface structures
+4233	structural component
+4233	Surface structures
+4234	structural component
+4234	Surface structures
+4235	factor
+4235	Surface structures
+4236	membrane
+4236	Outer membrane constituents
+4237	structural component
+4237	Surface structures
+4238	structural component
+4238	Surface structures
+4239	structural component
+4239	Surface structures
+4240	transport
+4240	Transport of small molecules: Carbohydrates, organic acids, alcohols
+4241	enzyme
+4241	Degradation of small molecules: Carbon compounds
+4242	enzyme
+4242	Degradation of small molecules: Carbon compounds
+4243	regulator
+4243	Degradation of small molecules: Carbon compounds
+4246	regulator
+4246	Global regulatory functions
+4247	enzyme
+4247	Degradation of proteins, peptides, glyco
+4251	putative transport
+4251	Not classified
+4252	putative enzyme
+4252	Not classified
+4253	putative enzyme
+4253	Not classified
+4256	putative transport
+4256	Not classified
+4258	putative regulator
+4258	Not classified
+4262	enzyme
+4262	Degradation of DNA
+4263	enzyme
+4263	Degradation of DNA
+4265	enzyme
+4265	DNA - replication, repair, restriction/modification
+4266	enzyme
+4266	DNA - replication, repair, restriction/modification
+4267	enzyme
+4267	Degradation of DNA
+4268	enzyme
+4268	DNA - replication, repair, restriction/modification
+4271	orf
+4271	Not classified
+4272	regulator
+4272	Chemotaxis and mobility
+4273	putative transport
+4273	Not classified
+4275	enzyme
+4275	L-galactonate catabolism
+4276	enzyme
+4276	Osmoregulated periplasmic glucan (OPG) biosynthesis biolsynthesis
+4277	putative factor
+4277	Not classified
+4278	enzyme
+4278	DNA - replication, repair, restriction/modification
+4279	factor
+4279	DNA - replication, repair, restriction/modification
+4281	putative structure
+4281	Not classified
+4282	putative regulator
+4282	Not classified
+4283	regulator
+4283	Not classified
+4286	enzyme
+4286	rRNA modification
+4287	enzyme
+4287	DNA - replication, repair, restriction/modification
+4288	enzyme
+4288	Ribosomes - maturation and modification
+4289	enzyme
+4289	Degradation of small molecules: Nucleotides
+4290	factor
+4290	Proteins - translation and modification
+4291	phenotype
+4291	Osmotic adaptation
+4295	putative enzyme
+4295	Not classified
+4296	putative enzyme
+4296	Not classified
+4297	enzyme
+4297	Salvage of nucleosides and nucleotides
+4298	enzyme
+4298	Salvage of nucleosides and nucleotides
+4299	enzyme
+4299	Salvage of nucleosides and nucleotides
+4300	enzyme
+4300	Salvage of nucleosides and nucleotides
+4301	putative enzyme
+4301	Protein modification
+4302	enzyme
+4302	Macromolecule synthesis, modification: Lipoprotein
+4303	membrane
+4303	Not classified
+4304	enzyme
+4304	Amino acid biosynthesis: Serine
+4305	putative enzyme
+4305	Degradation of proteins, peptides, glycopeptides
+4306	regulator
+4306	Biosynthesis of cofactors, carriers: Pyridine nucleotide
+4307	factor
+4307	Proteins - translation and modification
+4308	enzyme
+4308	Murein sacculus, peptidoglycan
+4309	regulator
+4309	Amino acid biosynthesis: Tryptophan
+4311	enzyme
+4311	Not classified
+4312	factor
+4312	DNA - replication, repair, restriction/modification
+4314	regulator
+4314	Global regulatory functions
+4315	enzyme
+4315	Global regulatory functions
+4316	putative membrane
+4316	Colicin-related functions
+4317	regulator
+4317	Global regulatory functions
