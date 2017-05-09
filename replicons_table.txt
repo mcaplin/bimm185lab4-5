@@ -1,5 +1,0 @@
-1	1	Escherichia coli str. K-12 substr. MG1655	chromosome	circular	4319	4641652	NC_000913	08-AUG-2016	
-2	2	Agrobacterium tumefaciens LBA4213 (Ach5)	chromosome	circular	2640	2773134	NZ_CP007225	15-AUG-2015	
-3	2	Agrobacterium tumefaciens LBA4213 (Ach5)	chromosome	linear	1848	2095074	NZ_CP007226	15-AUG-2015	
-4	2	Agrobacterium tumefaciens LBA4213 (Ach5)	plasmid	circular	537	556485	NZ_CP007227	15-AUG-2015	
-5	2	Agrobacterium tumefaciens LBA4213 (Ach5)	plasmid	circular	190	205997	NZ_CP007228	15-AUG-2015	

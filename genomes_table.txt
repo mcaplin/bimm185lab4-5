@@ -1,2 +1,0 @@
-1	Escherichia coli str. K-12 substr. MG1655	511145	Bacteria	1	4319	4641652	GCF_000005845.2	
-2	Agrobacterium tumefaciens LBA4213 (Ach5)	1435057	Bacteria	4	5215	5630690	GCF_000576515.1	
